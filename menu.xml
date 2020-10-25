@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dc_catalog SYSTEM "http://www.delivery-club.ru/xml/dc.dtd">
+
+<dc_catalog last_update="2020-10-25 23:15">
+ <delivery_service>
+   <categories>
+     <category id="1">Салаты</category>
+     <category id="2">Холодные закуски</category>
+     <category id="3">Горячие закуски</category>
+     <category id="4">Паста</category>
+     <category id="5">Супы</category>
+     <category id="6">Плов</category>
+     <category id="7">Другое</category>
+  </categories>
+  <products>
+    <product id="317611567491">
+      <category_id>1</category_id>
+      <name>Чобан</name>
+      <description>Бакинские огурцы и помидоры, зелень, красный лук, сок лимона, оливковое масло, базилик</description>
+      <price>400</price>
+      <picture>https://static.tildacdn.com/tild3539-3933-4238-b562-653637333039/photo.jpg</picture>
+      <weight>240</weight>
+    </product>
+    <product id="932916890801">
+      <category_id>1</category_id>
+      <name>Шахин-Шах</name>
+      <description>Язык говяжий, помидоры, руккола, сыр пармезан, чесночный соус, грецкий орех, майонез</description>
+      <price>480</price>
+      <picture>https://static.tildacdn.com/tild3535-3266-4564-b430-386161383534/-.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="736720941741">
+      <category_id>1</category_id>
+      <name>Цезарь с семгой</name>
+      <description>Филе семги, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
+      <price>530</price>
+      <picture>https://static.tildacdn.com/tild6330-3461-4662-b532-383531343639/__.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="491737007611">
+      <category_id>1</category_id>
+      <name>Цезарь с креветками</name>
+      <description>Тигровые креветки, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
+      <price>610</price>
+      <picture>https://static.tildacdn.com/tild3962-6464-4163-b462-316639366130/__.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="804209620111">
+      <category_id>1</category_id>
+      <name>Цезарь с курицей</name>
+      <description>Куриное филе, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
+      <price>480</price>
+      <picture>https://static.tildacdn.com/tild6632-6163-4236-a630-643139366636/__.jpg</picture>
+      <weight>265</weight>
+    </product>
+    <product id="901055951211">
+      <category_id>1</category_id>
+      <name>Оливье</name>
+      <description>Куриное филе, картофель отварной, яйца, огурцы, морковь, огурцы маринованные, майонез, укроп, зеленый лук.</description>
+      <price>430</price>
+      <picture>https://static.tildacdn.com/tild3238-6138-4933-a538-303264626162/photo.jpg</picture>
+      <weight>245</weight>
+    </product>
+    <product id="357882729031">
+      <category_id>1</category_id>
+      <name>Миланский</name>
+      <description>Руккола, тигровые креветки, помидоры черри, моцарелла, авокадо, соус бальзамический</description>
+      <price>590</price>
+      <picture>https://static.tildacdn.com/tild3130-6235-4639-a637-633537613634/photo.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="397264842871">
+      <category_id>1</category_id>
+      <name>Морской по-царски</name>
+      <description>Филе кальмаров, семга с/с, икра красная, яйцо, картофель, сыр пармезан, микс салат, лимон, майонез</description>
+      <price>610</price>
+      <picture>https://static.tildacdn.com/tild6132-3866-4335-a466-353239616666/_-.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="422731145621">
+      <category_id>1</category_id>
+      <name>Нежность с лососем</name>
+      <description>Филе семги, картофель, морковь, свекла, икра красная, майонез, лимон, микс салат, руккола</description>
+      <price>570</price>
+      <picture>https://static.tildacdn.com/tild3933-3365-4563-b864-643863633433/__.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="486458559181">
+      <category_id>1</category_id>
+      <name>Капрезе</name>
+      <description>Моцарелла, помидоры ,соус песто, соус бальзамический, кедровый орешки</description>
+      <price>490</price>
+      <picture>https://static.tildacdn.com/tild3236-6339-4132-b936-363832346437/photo.jpg</picture>
+      <weight>225</weight>
+    </product>
+    <product id="990546574601">
+      <category_id>1</category_id>
+      <name>Мангальный</name>
+      <description>Запеченные на углях помидоры, баклажаны и перец, кинза, лук красный</description>
+      <price>430</price>
+      <picture>https://static.tildacdn.com/tild3832-6665-4835-a330-333437363034/photo.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="891324070071">
+      <category_id>1</category_id>
+      <name>Греческий</name>
+      <description>Помидоры, огурцы, сыр фета, микс салат, болгарский перец, оливковое масло</description>
+      <price>470</price>
+      <picture>https://static.tildacdn.com/tild3266-3661-4433-a235-643061613363/photo.jpg</picture>
+      <weight>230</weight>
+    </product>
+    <product id="856307182861">
+      <category_id>1</category_id>
+      <name>Индейка с авокадо</name>
+      <description>Филе индейки, авокадо, шампиньоны, огурцы маринованные, морковь, яйца, майонез</description>
+      <price>430</price>
+      <picture>https://static.tildacdn.com/tild3261-3162-4237-b463-393139613934/__.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="622164520341">
+      <category_id>1</category_id>
+      <name>Барский</name>
+      <description>Авокадо, помидоры, огурцы, яйца перепелиные, кресс-салат, филе семги, медово-горчичный соус</description>
+      <price>560</price>
+      <picture>https://static.tildacdn.com/tild3665-3535-4537-b466-633763613638/_2.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="309994954441">
+      <category_id>2</category_id>
+      <name>Помидоры узбекские</name>
+      <description></description>
+      <price>370</price>
+      <picture>https://static.tildacdn.com/tild3930-3334-4238-b465-313532356133/_.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="295033354261">
+      <category_id>2</category_id>
+      <name>Маслины/оливки</name>
+      <description></description>
+      <price>300</price>
+      <picture>https://static.tildacdn.com/tild3534-6466-4633-a235-633239313036/photo.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="496224885121">
+      <category_id>2</category_id>
+      <name>Огурцы бакинские</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3062-3638-4332-b064-613261623539/_.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="433358014101">
+      <category_id>2</category_id>
+      <name>Лимон в нарезку</name>
+      <description></description>
+      <price>100</price>
+      <picture>https://static.tildacdn.com/tild3731-3833-4965-b137-313431386462/photo.jpg</picture>
+      <weight>50</weight>
+    </product>
+    <product id="944319090701">
+      <category_id>2</category_id>
+      <name>Овощный букет</name>
+      <description>Помидоры узбекские и огурцы бакинские, ассорти зелени , редис, перец острый</description>
+      <price>800</price>
+      <picture>https://static.tildacdn.com/tild6433-3939-4965-b731-363762636265/_.jpg</picture>
+      <weight>600</weight>
+    </product>
+    <product id="522339179011">
+      <category_id>2</category_id>
+      <name>Зелень в ассортименте</name>
+      <description>Кинза, укроп, зел.лук, редис, базилик,тархун, петрушка, стручковый перец</description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3063-6435-4438-b437-666339646236/_.jpg</picture>
+      <weight>180</weight>
+    </product>
+    <product id="366161617301">
+      <category_id>2</category_id>
+      <name>Маринованные грибочки</name>
+      <description>Шампиньоны, опята, грузди, маслята,красный лук, зелень</description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3539-6536-4463-b063-353130613361/_.jpg</picture>
+      <weight>160</weight>
+    </product>
+    <product id="884616556871">
+      <category_id>2</category_id>
+      <name>Ассорти из маринадов</name>
+      <description>Белая и красная капуста, перец, чеснок, огурцы, помидоры, ягоды, морковь корейская</description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild6165-6466-4030-a635-306562613037/_.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="837834210751">
+      <category_id>2</category_id>
+      <name>Мясное ассорти</name>
+      <description>Рулет куриный, рулет из индейки, говяжий язык, рулет из говяжьей вырезки</description>
+      <price>850</price>
+      <picture>https://static.tildacdn.com/tild6363-3862-4134-b563-646339643732/_.jpg</picture>
+      <weight>255</weight>
+    </product>
+    <product id="422291376981">
+      <category_id>2</category_id>
+      <name>Рулет куриный с сухофруктами</name>
+      <description></description>
+      <price>300</price>
+      <picture>https://static.tildacdn.com/tild6339-6535-4364-a465-333763626465/_.jpg</picture>
+      <weight>100</weight>
+    </product>
+    <product id="599721188371">
+      <category_id>2</category_id>
+      <name>Язык говяжий отварной</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3037-3263-4563-b061-383634343762/_.jpg</picture>
+      <weight>100</weight>
+    </product>
+    <product id="811017577651">
+      <category_id>2</category_id>
+      <name>Филе сельди с картофелем</name>
+      <description>Филе сельди, картофель, лук красный</description>
+      <price>340</price>
+      <picture>https://static.tildacdn.com/tild3132-3937-4733-b732-346364363839/___.jpg</picture>
+      <weight>100</weight>
+    </product>
+    <product id="445774237071">
+      <category_id>2</category_id>
+      <name>Муксун хол/коп</name>
+      <description></description>
+      <price>420</price>
+      <picture>https://static.tildacdn.com/tild3035-3832-4535-b935-386632646338/__.jpg</picture>
+      <weight>75</weight>
+    </product>
+    <product id="290593117291">
+      <category_id>2</category_id>
+      <name>Семга слабосоленная</name>
+      <description></description>
+      <price>380</price>
+      <picture>https://static.tildacdn.com/tild6132-6461-4066-b333-373738663165/_.jpg</picture>
+      <weight>75</weight>
+    </product>
+    <product id="523861840351">
+      <category_id>2</category_id>
+      <name>Угорь копченый</name>
+      <description></description>
+      <price>510</price>
+      <picture>https://static.tildacdn.com/tild3939-3636-4430-b465-626161336534/_.jpg</picture>
+      <weight>75</weight>
+    </product>
+    <product id="285595848231">
+      <category_id>2</category_id>
+      <name>Блины с семгой и сливочным сыром</name>
+      <description>Блины, семга с/с, сливочный сыр</description>
+      <price>580</price>
+      <picture>https://static.tildacdn.com/tild3861-6136-4235-b530-343938623862/_____.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="455628173861">
+      <category_id>2</category_id>
+      <name>Рыбное ассорти</name>
+      <description>Семга с/с, угорь копченый, муксун х/к</description>
+      <price>1200</price>
+      <picture>https://static.tildacdn.com/tild3037-6362-4365-b736-346233633231/_.jpg</picture>
+      <weight>225</weight>
+    </product>
+    <product id="451282669121">
+      <category_id>2</category_id>
+      <name>Икра красная с маслом</name>
+      <description></description>
+      <price>610</price>
+      <picture>https://static.tildacdn.com/tild3166-6236-4434-a333-613761663233/safar3201.jpg</picture>
+      <weight>50</weight>
+    </product>
+    <product id="461408943121">
+      <category_id>3</category_id>
+      <name>Яичница с помидорами</name>
+      <description></description>
+      <price>260</price>
+      <picture>https://static.tildacdn.com/tild3439-3632-4663-b239-376333376337/__.jpg</picture>
+      <weight>180</weight>
+    </product>
+    <product id="762384309861">
+      <category_id>3</category_id>
+      <name>Мидии в сливочным соусе</name>
+      <description>Мидии, сыр пармезан, сливки, соус чили, манго, масло чесночное, специи</description>
+      <price>710</price>
+      <picture>https://static.tildacdn.com/tild3466-3637-4836-b136-383831666131/___.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="374662353271">
+      <category_id>3</category_id>
+      <name>Тигровые креветки со сладким чили</name>
+      <description>Креветки, соус чили, панировочные чипсы</description>
+      <price>950</price>
+      <picture>https://static.tildacdn.com/tild6130-3563-4338-a637-616664643966/___.jpg</picture>
+      <weight>270</weight>
+    </product>
+    <product id="111212591911">
+      <category_id>3</category_id>
+      <name>Кутаб с тыквой</name>
+      <description></description>
+      <price>130</price>
+      <picture>https://static.tildacdn.com/tild3930-3133-4230-b561-343438396662/__.jpg</picture>
+      <weight>80</weight>
+    </product>
+    <product id="905453929511">
+      <category_id>3</category_id>
+      <name>Долма из виноградных листьев</name>
+      <description>Бараний фарш завернутый в виноградные листья <br /></description>
+      <price>450</price>
+      <picture>https://static.tildacdn.com/tild3032-6337-4162-b931-343739303436/___.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="641896803611">
+      <category_id>3</category_id>
+      <name>Кутаб на мангале</name>
+      <description>Зелень, сыр сулгуни <br /></description>
+      <price>160</price>
+      <picture>https://static.tildacdn.com/tild6365-6563-4639-a633-323865396363/__.jpg</picture>
+      <weight>100</weight>
+    </product>
+    <product id="178268406491">
+      <category_id>3</category_id>
+      <name>Кутаб с тыквой</name>
+      <description></description>
+      <price>130</price>
+      <picture>https://static.tildacdn.com/tild6133-3834-4534-b866-306137663238/__.jpg</picture>
+      <weight>80</weight>
+    </product>
+    <product id="787607988941">
+      <category_id>3</category_id>
+      <name>Кутаб с зеленью</name>
+      <description>Щавель, шпинат, кинза, укроп, горная кинза, зелёный лук <br /></description>
+      <price>130</price>
+      <picture>https://static.tildacdn.com/tild3631-6638-4835-b433-363432663536/__.jpg</picture>
+      <weight>80</weight>
+    </product>
+    <product id="182873361061">
+      <category_id>3</category_id>
+      <name>Кутаб с сыром сулугуни</name>
+      <description></description>
+      <price>150</price>
+      <picture>https://static.tildacdn.com/tild6166-6532-4834-a138-613134336630/safar0264_1.jpg</picture>
+      <weight>80</weight>
+    </product>
+    <product id="245189873791">
+      <category_id>3</category_id>
+      <name>Тарталетка с куриным жульеном</name>
+      <description>Куриное филе, соус жульен, сыр моцарелла <br /></description>
+      <price>230</price>
+      <picture>https://static.tildacdn.com/tild3037-3834-4338-b233-366133383863/1363011.svg</picture>
+      <weight>110</weight>
+    </product>
+    <product id="159580521781">
+      <category_id>3</category_id>
+      <name>Тарталетка с грибным жульеном</name>
+      <description>Шампиньоны жаренные, соус жульен, сыр эдам <br /></description>
+      <price>230</price>
+      <picture>https://static.tildacdn.com/tild3037-3834-4338-b233-366133383863/1363011.svg</picture>
+      <weight>110</weight>
+    </product>
+    <product id="261186667271">
+      <category_id>4</category_id>
+      <name>Таглиателле c лососем</name>
+      <description></description>
+      <price>670</price>
+      <picture>https://static.tildacdn.com/tild3531-6635-4666-b662-313832313062/__2020-10-08__024037.png</picture>
+      <weight>250</weight>
+    </product>
+    <product id="799176973251">
+      <category_id>4</category_id>
+      <name>Карбонара</name>
+      <description>Спагетти с беконом в классическом соусе карбонара, сыр пармезан,яйцо, лук,чеснок, белое вино <br /></description>
+      <price>440</price>
+      <picture>https://static.tildacdn.com/tild3732-6662-4934-a534-633035363733/photo.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="791327100611">
+      <category_id>4</category_id>
+      <name>Маргарита</name>
+      <description>Сыр пармезан, помидоры, чеснок, оливковое масло, базилик <br /></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3733-3539-4131-b132-353662656565/__2020-10-08__024103.png</picture>
+      <weight>280</weight>
+    </product>
+    <product id="625757176471">
+      <category_id>5</category_id>
+      <name>Борщ со сметаной</name>
+      <description>Говядина, свекла, картофель, капуста, лук, морковь, зелень <br /></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild6237-3761-4261-b763-313666333466/photo.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="455258361891">
+      <category_id>5</category_id>
+      <name>Куриная лапша</name>
+      <description>Лапша домашняя, куриный бульон, зелень, куриное филе <br /></description>
+      <price>330</price>
+      <picture>https://static.tildacdn.com/tild3066-3035-4830-a539-613164353165/photo.jpg</picture>
+      <weight>330</weight>
+    </product>
+    <product id="995504088111">
+      <category_id>5</category_id>
+      <name>Солянка мясная</name>
+      <description>Краковская колбаса, язык говяжий, карбонад, буженина, копченная говядина, ветчина, огурцы соленые, томат, маслины, оливки, каперсы, специи <br /></description>
+      <price>420</price>
+      <picture>https://static.tildacdn.com/tild3031-6634-4336-b139-383636656664/photo.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="294177525891">
+      <category_id>5</category_id>
+      <name>Уха</name>
+      <description>Филе судака, филе семги, лук репчатый, морковь, сельдерей <br /></description>
+      <price>440</price>
+      <picture>https://static.tildacdn.com/tild3634-6236-4437-a262-346334373530/photo.jpg</picture>
+      <weight>320</weight>
+    </product>
+    <product id="545282026451">
+      <category_id>5</category_id>
+      <name>Дюшбара</name>
+      <description>Бульон из молодого ягненка с маленькими пельмешками<br /></description>
+      <price>300</price>
+      <picture>https://static.tildacdn.com/tild3631-6566-4562-b264-613738633734/photo.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="389566376141">
+      <category_id>5</category_id>
+      <name>Кюфта бозбаш</name>
+      <description>Азербайджанская большая тефтеля из рубленного мяса ягненка в собственном бульоне <br /></description>
+      <price>380</price>
+      <picture>https://static.tildacdn.com/tild6332-3565-4136-b631-326232373462/-.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="879112683531">
+      <category_id>5</category_id>
+      <name>Том Ям</name>
+      <description>Семга, соус том ям, креветки, цитрус, кокосовое молоко, рыбный бульон <br /></description>
+      <price>590</price>
+      <picture>https://static.tildacdn.com/tild3034-3864-4364-a532-646438346233/_.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="343590709241">
+      <category_id>5</category_id>
+      <name>Крем-суп из тыквы</name>
+      <description>Тыква, тыквенные семечки,гренки <br /></description>
+      <price>320</price>
+      <picture>https://static.tildacdn.com/tild3661-3463-4538-b635-386663643965/-__.jpg</picture>
+      <weight>265</weight>
+    </product>
+    <product id="165875596231">
+      <category_id>5</category_id>
+      <name>Крем-суп грибной</name>
+      <description>Шампиньоны, лук, сливки, гренки <br /></description>
+      <price>380</price>
+      <picture>https://static.tildacdn.com/tild3438-6162-4630-a434-333764336438/-_.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="506754746781">
+      <category_id>5</category_id>
+      <name>Крем-суп из чечевицы</name>
+      <description>Чечевица, морковь, лук, картофель, томаты <br /></description>
+      <price>310</price>
+      <picture>https://static.tildacdn.com/tild6438-6335-4464-b237-363862633962/-_.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="332965407121">
+      <category_id>5</category_id>
+      <name>Пити</name>
+      <description>Баранина на кости, курдюк,горох нут, бульон, картофель <br /></description>
+      <price>380</price>
+      <picture>https://static.tildacdn.com/tild3737-6264-4366-a562-633136363031/photo.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="497223567271">
+      <category_id>5</category_id>
+      <name>Кюрза из ягненка</name>
+      <description>Азербайджанские равиоли в бульоне с зеленью <br /></description>
+      <price>330</price>
+      <picture>https://static.tildacdn.com/tild3137-6562-4161-b565-636461653464/photo.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="732012892201">
+      <category_id>6</category_id>
+      <name>Плов Шахин-шах</name>
+      <description>Мякоть ягненка, грецкий орех, гранат, соус туршу, лук, рис<br /></description>
+      <price>650</price>
+      <picture>https://static.tildacdn.com/tild3866-3037-4532-b837-313838663532/_-.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="280519575881">
+      <category_id>6</category_id>
+      <name>Плов сябзи</name>
+      <description>Томленая мякоть ягненка с ассорти из зелени, рис <br /></description>
+      <price>580</price>
+      <picture>https://static.tildacdn.com/tild6564-6163-4534-b736-333635323032/_.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="341973180501">
+      <category_id>6</category_id>
+      <name>Плов туршу</name>
+      <description>Мякоть ягненка, курага, алыча, каштаны, изюм, рис. <br /></description>
+      <price>690</price>
+      <picture>https://static.tildacdn.com/tild3336-3534-4965-b735-616233393033/_.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="751312490051">
+      <category_id>7</category_id>
+      <name>Королевские креветки</name>
+      <description></description>
+      <price>990</price>
+      <picture>https://static.tildacdn.com/tild6531-6332-4231-b864-643463353265/__.jpg</picture>
+      <weight>130</weight>
+    </product>
+    <product id="226979570331">
+      <category_id>7</category_id>
+      <name>Филе семги на углях</name>
+      <description></description>
+      <price>780</price>
+      <picture>https://static.tildacdn.com/tild3035-3764-4836-a632-303164333737/_.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="539814092181">
+      <category_id>7</category_id>
+      <name>Дорадо</name>
+      <description></description>
+      <price>760</price>
+      <picture>https://static.tildacdn.com/tild3232-3363-4333-b065-353432366165/photo.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="925873813091">
+      <category_id>7</category_id>
+      <name>Сибас на углях</name>
+      <description></description>
+      <price>760</price>
+      <picture>https://static.tildacdn.com/tild3739-6237-4566-b566-353766653565/___1.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="926790077021">
+      <category_id>7</category_id>
+      <name>Помидор</name>
+      <description></description>
+      <price>110</price>
+      <picture>https://static.tildacdn.com/tild3333-3539-4139-b165-343264363533/__.jpg</picture>
+      <weight>100</weight>
+    </product>
+    <product id="559559627641">
+      <category_id>7</category_id>
+      <name>Баклажан</name>
+      <description></description>
+      <price>200</price>
+      <picture>https://static.tildacdn.com/tild3438-3532-4161-a466-356365366264/__.jpg</picture>
+      <weight>110</weight>
+    </product>
+    <product id="817626506141">
+      <category_id>7</category_id>
+      <name>Молодой картофель</name>
+      <description></description>
+      <price>190</price>
+      <picture>https://static.tildacdn.com/tild6166-3537-4631-b766-333138656333/____.jpg</picture>
+      <weight>180</weight>
+    </product>
+    <product id="861037625031">
+      <category_id>7</category_id>
+      <name>Люля-кебаб из картофеля</name>
+      <description></description>
+      <price>160</price>
+      <picture>https://static.tildacdn.com/tild3762-6463-4939-b663-306438663964/-__.jpg</picture>
+      <weight>160</weight>
+    </product>
+    <product id="360006213701">
+      <category_id>7</category_id>
+      <name>Перец болгарский</name>
+      <description></description>
+      <price>120</price>
+      <picture>https://static.tildacdn.com/tild3336-6534-4436-a362-316133353431/___.jpg</picture>
+      <weight>100</weight>
+    </product>
+    <product id="207046542291">
+      <category_id>7</category_id>
+      <name>Шампиньоны</name>
+      <description></description>
+      <price>250</price>
+      <picture>https://static.tildacdn.com/tild6361-3836-4234-a662-373562616661/__.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="448622810501">
+      <category_id>7</category_id>
+      <name>Шахин-шах</name>
+      <description></description>
+      <price>2150</price>
+      <picture>https://static.tildacdn.com/tild3561-6132-4437-b138-323138373663/-.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="638050388081">
+      <category_id>7</category_id>
+      <name>Цыпленок</name>
+      <description></description>
+      <price>650</price>
+      <picture>https://static.tildacdn.com/tild6237-3835-4435-b563-363731616662/__.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="421397865681">
+      <category_id>7</category_id>
+      <name>Шашлык Хан-кебаб</name>
+      <description></description>
+      <price>400</price>
+      <picture>https://static.tildacdn.com/tild3931-6539-4462-b165-646361323035/-.jpg</picture>
+      <weight>180</weight>
+    </product>
+    <product id="241945879961">
+      <category_id>7</category_id>
+      <name>Телячья мякоть</name>
+      <description></description>
+      <price>880</price>
+      <picture>https://static.tildacdn.com/tild3363-3332-4662-b635-326461373137/_.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="575591543401">
+      <category_id>7</category_id>
+      <name>Телячья грудинка</name>
+      <description></description>
+      <price>690</price>
+      <picture>https://static.tildacdn.com/tild6231-3231-4535-a337-366430396566/_.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="431329653561">
+      <category_id>7</category_id>
+      <name>Сердце</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3835-3733-4535-b533-636162643034/photo.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="493501907651">
+      <category_id>7</category_id>
+      <name>Свиная шейка</name>
+      <description></description>
+      <price>480</price>
+      <picture>https://static.tildacdn.com/tild3537-3130-4436-b130-636632643537/_.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="213450389421">
+      <category_id>7</category_id>
+      <name>Почки</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild6662-3266-4231-b965-323265623531/photo.jpg</picture>
+      <weight>160</weight>
+    </product>
+    <product id="234552383271">
+      <category_id>7</category_id>
+      <name>Перепелка</name>
+      <description></description>
+      <price>550</price>
+      <picture>https://static.tildacdn.com/tild3963-3966-4735-b865-366530343737/photo.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="472672607721">
+      <category_id>7</category_id>
+      <name>Люля-кебаб из телятины</name>
+      <description></description>
+      <price>680</price>
+      <picture>https://static.tildacdn.com/tild3239-6462-4730-b037-376537346262/photo.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="867962595431">
+      <category_id>7</category_id>
+      <name>Люля-кебаб из курицы</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild6334-6338-4562-b464-663361333639/photo.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="465466893011">
+      <category_id>7</category_id>
+      <name>Куриные крылышки</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild6665-3166-4364-b135-666265393934/_.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="125508083221">
+      <category_id>7</category_id>
+      <name>Куриное филе</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3839-6633-4437-a264-383034353032/_.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="283882521111">
+      <category_id>7</category_id>
+      <name>Корейка ягненка</name>
+      <description></description>
+      <price>590</price>
+      <picture>https://static.tildacdn.com/tild3537-3566-4535-b839-383237323565/_.jpg</picture>
+      <weight>160</weight>
+    </product>
+    <product id="646390710861">
+      <category_id>7</category_id>
+      <name>Говяжий язык</name>
+      <description></description>
+      <price>610</price>
+      <picture>https://static.tildacdn.com/tild3066-3935-4962-b432-323632396166/_.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="701138373051">
+      <category_id>7</category_id>
+      <name>Мякоть ягненка на кости</name>
+      <description></description>
+      <price>570</price>
+      <picture>https://static.tildacdn.com/tild6137-6136-4431-b364-333132363666/_.jpg</picture>
+      <weight>245</weight>
+    </product>
+    <product id="577942058951">
+      <category_id>7</category_id>
+      <name>Картофель по-домашнему с луком</name>
+      <description></description>
+      <price>200</price>
+      <picture>https://static.tildacdn.com/tild3366-3862-4535-a335-613033386131/__.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="514661463681">
+      <category_id>7</category_id>
+      <name>Картофель фри</name>
+      <description></description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild3063-6637-4166-a461-323239376464/_.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="468227354751">
+      <category_id>7</category_id>
+      <name>Картофель по-деревенски</name>
+      <description></description>
+      <price>220</price>
+      <picture>https://static.tildacdn.com/tild3733-6264-4462-b564-336365646565/_-.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="684319897281">
+      <category_id>7</category_id>
+      <name>Картофельное пюре</name>
+      <description></description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild6433-3961-4565-b836-383136306538/_.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="502750694451">
+      <category_id>7</category_id>
+      <name>Картофель отварной с зеленью</name>
+      <description></description>
+      <price>170</price>
+      <picture>https://static.tildacdn.com/tild3137-6464-4565-a537-623733316232/___.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="448752763861">
+      <category_id>7</category_id>
+      <name>Гречка</name>
+      <description></description>
+      <price>170</price>
+      <picture>https://static.tildacdn.com/tild3932-6431-4861-a432-303832646363/photo.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="511279797931">
+      <category_id>7</category_id>
+      <name>Рис</name>
+      <description></description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild3734-3732-4733-a362-646130316339/photo.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="860727204231">
+      <category_id>7</category_id>
+      <name>Цыпленок Табака</name>
+      <description></description>
+      <price>610</price>
+      <picture>https://static.tildacdn.com/tild3365-3731-4034-b464-616466633264/_.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="592849510621">
+      <category_id>7</category_id>
+      <name>Котлеты по – киевски</name>
+      <description></description>
+      <price>520</price>
+      <picture>https://static.tildacdn.com/tild6132-3739-4638-a261-306432393661/_-.jpg</picture>
+      <weight>215</weight>
+    </product>
+    <product id="850206531501">
+      <category_id>7</category_id>
+      <name>Хашлама из баранины</name>
+      <description></description>
+      <price>700</price>
+      <picture>https://static.tildacdn.com/tild3661-3932-4234-a161-353832643461/__.jpg</picture>
+      <weight>320</weight>
+    </product>
+    <product id="621363258541">
+      <category_id>7</category_id>
+      <name>Свинина с грушей</name>
+      <description></description>
+      <price>470</price>
+      <picture>https://static.tildacdn.com/tild3062-3936-4166-a233-306165306561/__.jpg</picture>
+      <weight>320</weight>
+    </product>
+    <product id="376146884581">
+      <category_id>7</category_id>
+      <name>Джыз- быз</name>
+      <description></description>
+      <price>400</price>
+      <picture>https://static.tildacdn.com/tild3631-6266-4336-b038-383333353832/_.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="130912073661">
+      <category_id>7</category_id>
+      <name>Свинина по- старорусски</name>
+      <description></description>
+      <price>530</price>
+      <picture>https://static.tildacdn.com/tild3137-3730-4536-a266-326238356136/_-.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="958904017071">
+      <category_id>7</category_id>
+      <name>Гийма хинкал</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3734-3732-4733-a362-646130316339/photo.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="517336345181">
+      <category_id>7</category_id>
+      <name>Жаркое по-домашнему из баранины</name>
+      <description></description>
+      <price>500</price>
+      <picture>https://static.tildacdn.com/tild3231-6631-4134-b138-383364323635/_-.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="377140505111">
+      <category_id>7</category_id>
+      <name>Мясо по-строгановски</name>
+      <description></description>
+      <price>650</price>
+      <picture>https://static.tildacdn.com/tild3665-3533-4231-b736-393132616334/_-.jpg</picture>
+      <weight>185</weight>
+    </product>
+    <product id="690193719731">
+      <category_id>7</category_id>
+      <name>Цыпленок чыхыртма</name>
+      <description></description>
+      <price>790</price>
+      <picture>https://static.tildacdn.com/tild3236-6463-4537-b465-363039343032/__.jpg</picture>
+      <weight>420</weight>
+    </product>
+    <product id="898354703771">
+      <category_id>7</category_id>
+      <name>Вырезка из ягненка</name>
+      <description></description>
+      <price>630</price>
+      <picture>https://static.tildacdn.com/tild3836-6262-4537-b466-333939343930/_.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="393908961051">
+      <category_id>7</category_id>
+      <name>Ребрышки ягненка</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3439-3066-4738-a439-326137633232/_.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="363589614471">
+      <category_id>7</category_id>
+      <name>Люля-кебаб из ягненка</name>
+      <description></description>
+      <price>490</price>
+      <picture>https://static.tildacdn.com/tild3930-3965-4665-b961-623861363462/__.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="640907849751">
+      <category_id>7</category_id>
+      <name>Печень ягненка с курдюком</name>
+      <description></description>
+      <price>410</price>
+      <picture>https://static.tildacdn.com/tild3930-3965-4665-b961-623861363462/__.jpg</picture>
+      <weight>170</weight>
+    </product>
+    <product id="224799022351">
+      <category_id>7</category_id>
+      <name>Свиные ребра</name>
+      <description></description>
+      <price>550</price>
+      <picture>https://static.tildacdn.com/tild3930-3965-4665-b961-623861363462/__.jpg</picture>
+      <weight>260</weight>
+    </product>
+    <product id="186571255671">
+      <category_id>7</category_id>
+      <name>Филе миньон</name>
+      <description></description>
+      <price>900</price>
+      <picture>https://static.tildacdn.com/tild6238-6238-4364-a462-353864356366/_.jpg</picture>
+      <weight>280</weight>
+    </product>
+    <product id="692699826021">
+      <category_id>7</category_id>
+      <name>Кафе де пари</name>
+      <description></description>
+      <price>1290</price>
+      <picture>https://static.tildacdn.com/tild3265-6633-4635-b733-636437373561/__.jpg</picture>
+      <weight>220</weight>
+    </product>
+    <product id="198061623381">
+      <category_id>7</category_id>
+      <name>Стейк Шахин-шах</name>
+      <description></description>
+      <price>1350</price>
+      <picture>https://static.tildacdn.com/tild3434-3838-4337-a536-393462343134/_-.jpg</picture>
+      <weight>220</weight>
+    </product>
+    <product id="377434371631">
+      <category_id>7</category_id>
+      <name>Стейк по –азиатски</name>
+      <description></description>
+      <price>1280</price>
+      <picture>https://static.tildacdn.com/tild3264-6432-4335-a239-663333306233/_-.jpg</picture>
+      <weight>220</weight>
+    </product>
+    <product id="471031201751">
+      <category_id>7</category_id>
+      <name>Садж-ковурма из баранины на углях на 2 персоны</name>
+      <description></description>
+      <price>1200</price>
+      <picture>https://static.tildacdn.com/tild6236-6438-4462-b162-343064646566/___1.jpg</picture>
+      <weight>800</weight>
+    </product>
+    <product id="501635273271">
+      <category_id>7</category_id>
+      <name>Садж- ковурма из курицы на углях на 2 персоны</name>
+      <description></description>
+      <price>990</price>
+      <picture>https://static.tildacdn.com/tild6236-6438-4462-b162-343064646566/___1.jpg</picture>
+      <weight>800</weight>
+    </product>
+    <product id="373945958631">
+      <category_id>7</category_id>
+      <name>Садж- ковурма из телятины на угляхна 2 персоны</name>
+      <description></description>
+      <price>1520</price>
+      <picture>https://static.tildacdn.com/tild6538-6338-4433-a436-323439303766/_.jpg</picture>
+      <weight>800</weight>
+    </product>
+    <product id="245871592941">
+      <category_id>7</category_id>
+      <name>Чвишдари</name>
+      <description>Лепешка из кукурузной муки с сыром сулгуни</description>
+      <price>220</price>
+      <picture>https://static.tildacdn.com/tild3864-3639-4634-b864-353765386331/photo.jpg</picture>
+      <weight>160</weight>
+    </product>
+    <product id="879191473291">
+      <category_id>7</category_id>
+      <name>Шампиньоны фаршированные сыром</name>
+      <description></description>
+      <price>380</price>
+      <picture>https://static.tildacdn.com/tild3536-3836-4535-b638-303163613366/__.jpg</picture>
+      <weight>270</weight>
+    </product>
+    <product id="498427296401">
+      <category_id>7</category_id>
+      <name>Хачапури по-аджарски</name>
+      <description>Сыр сулугуни, яйцо</description>
+      <price>380</price>
+      <picture>https://static.tildacdn.com/tild3364-3261-4237-b137-343864623638/_-.jpg</picture>
+      <weight>390</weight>
+    </product>
+    <product id="652042012111">
+      <category_id>7</category_id>
+      <name>Хинкали с бараниной</name>
+      <description></description>
+      <price>330</price>
+      <picture>https://static.tildacdn.com/tild6662-6436-4138-b134-613761393937/__.jpg</picture>
+      <weight>330</weight>
+    </product>
+    <product id="120318762651">
+      <category_id>7</category_id>
+      <name>Сациви с курицей</name>
+      <description>Грудка цыпленка с соусом из грецкого ореха со специями</description>
+      <price>420</price>
+      <picture>https://static.tildacdn.com/tild3661-3238-4663-a332-313762393133/photo.jpg</picture>
+      <weight>280</weight>
+    </product>
+    <product id="402771457541">
+      <category_id>7</category_id>
+      <name>Суп харчо</name>
+      <description>Говядина, помидоры, рис, специи, перец острый, перец болгарский</description>
+      <price>330</price>
+      <picture>https://static.tildacdn.com/tild3330-3335-4461-a536-356561633961/_.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="942070572971">
+      <category_id>7</category_id>
+      <name>Хачапури по-менгрельски 30 см</name>
+      <description>Сыр сулугуни</description>
+      <price>510</price>
+      <picture>https://static.tildacdn.com/tild6439-3362-4163-a637-353839373837/__.jpg</picture>
+      <weight>590</weight>
+    </product>
+    <product id="466481121121">
+      <category_id>7</category_id>
+      <name>Пхали из шпината</name>
+      <description>Шпинат с грецким орехом и специями</description>
+      <price>300</price>
+      <picture>https://static.tildacdn.com/tild3365-3164-4966-b039-343231666237/__.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="506924860171">
+      <category_id>7</category_id>
+      <name>Пхали с о свеклой</name>
+      <description>Свекла с грецким орехом и специями</description>
+      <price>300</price>
+      <picture>https://static.tildacdn.com/tild3064-6234-4439-b736-636435396266/_.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="667058351421">
+      <category_id>7</category_id>
+      <name>Рулетики из баклажанов с ореховой начинкой</name>
+      <description>Жаренные баклажаны, грецкий орех, гранат, специи</description>
+      <price>480</price>
+      <picture>https://static.tildacdn.com/tild3766-6236-4731-b238-353530393265/__.jpg</picture>
+      <weight>180</weight>
+    </product>
+    <product id="464090919961">
+      <category_id>7</category_id>
+      <name>Оджахури из баранины</name>
+      <description>Баранина, помидоры, перец острый, зелень, чеснок, картофель, перец болгарский</description>
+      <price>530</price>
+      <picture>https://static.tildacdn.com/tild3361-3963-4362-a461-383330353866/photo.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="491968245381">
+      <category_id>7</category_id>
+      <name>Оджахури из свинины</name>
+      <description>Свинина, лук репчатый, зелень, специи, болгарский перец, картофель</description>
+      <price>510</price>
+      <picture>https://static.tildacdn.com/tild3534-3538-4635-b035-336534376136/photo.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="541707816521">
+      <category_id>7</category_id>
+      <name>Оджахури из мяса молодого бычка</name>
+      <description>Говядина, лук репчатый , зелень, специи, болгарский перец, картофель</description>
+      <price>620</price>
+      <picture>https://static.tildacdn.com/tild3862-3166-4532-a238-353233626562/photo.jpg</picture>
+      <weight>350</weight>
+    </product>
+    <product id="688646628111">
+      <category_id>7</category_id>
+      <name>Пхали из стручковой фасоли</name>
+      <description>Зеленая фасоль с грецким орехом и специями</description>
+      <price>300</price>
+      <picture>https://static.tildacdn.com/tild3666-6466-4265-a135-366162636463/___.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="626138296491">
+      <category_id>7</category_id>
+      <name>Лобио по-имертински</name>
+      <description>Фасоль красная, перец острый, стебель сельдерея, специи</description>
+      <price>400</price>
+      <picture>https://static.tildacdn.com/tild3234-3938-4032-a430-396230323761/_-.jpg</picture>
+      <weight>330</weight>
+    </product>
+    <product id="935674589431">
+      <category_id>7</category_id>
+      <name>Салат овощной по-грузински с орехами</name>
+      <description>Помидоры, огурцы, перец острый, лук красный, зелень, грецкий орех <br /></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3261-3162-4563-b330-346239653363/____.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="882225731191">
+      <category_id>7</category_id>
+      <name>Аджапсандали</name>
+      <description>Болгарский перец, баклажаны, специи, зелень</description>
+      <price>330</price>
+      <picture>https://static.tildacdn.com/tild3130-6261-4139-b564-386230643066/photo.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="320382033351">
+      <category_id>7</category_id>
+      <name>Ассорти пхали</name>
+      <description>Свекольный, зеленое лобио, шпинат</description>
+      <price>550</price>
+      <picture>https://static.tildacdn.com/tild6437-6533-4066-b763-613566663061/_.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="700728473381">
+      <category_id>7</category_id>
+      <name>Жареный сулугуни с соусом ежевики</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild6265-3538-4531-a662-643366313935/____.jpg</picture>
+      <weight>180</weight>
+    </product>
+    <product id="911837354341">
+      <category_id>7</category_id>
+      <name>Лобио по-грузински</name>
+      <description>Красная фасоль, чеснок, грецкий орех, зелень, специи</description>
+      <price>300</price>
+      <picture>https://static.tildacdn.com/tild6364-3035-4462-a465-633561666631/_-.jpg</picture>
+      <weight>30</weight>
+    </product>
+    <product id="242248614851">
+      <category_id>7</category_id>
+      <name>Хачапури по-имертински 30 см</name>
+      <description>Красная фасоль, чеснок, грецкий орех, зелень, специи</description>
+      <price>480</price>
+      <picture>https://static.tildacdn.com/tild6230-3064-4362-a663-326138323765/_-___.jpg</picture>
+      <weight>550</weight>
+    </product>
+    <product id="947652409811">
+      <category_id>7</category_id>
+      <name>Айран</name>
+      <description>Бакинские огурцы и помидоры, зелень, красный лук, сок лимона, оливковое масло, базилик</description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild3239-3831-4161-a531-326631653937/photo.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="719316106181">
+      <category_id>7</category_id>
+      <name>Ассорти из кавказских сыров</name>
+      <description>Язык говяжий, помидоры, руккола, сыр пармезан, чесночный соус, грецкий орех, майонез</description>
+      <price>620</price>
+      <picture>https://static.tildacdn.com/tild6162-6539-4666-b664-356462333235/__.jpg</picture>
+      <weight>300</weight>
+    </product>
+    <product id="744647869461">
+      <category_id>7</category_id>
+      <name>Брынза</name>
+      <description>Филе семги, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
+      <price>230</price>
+      <picture>https://static.tildacdn.com/tild3837-6662-4338-a365-306239303231/photo.jpg</picture>
+      <weight>75</weight>
+    </product>
+    <product id="239363146711">
+      <category_id>7</category_id>
+      <name>Довга</name>
+      <description>Тигровые креветки, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
+      <price>250</price>
+      <picture>https://static.tildacdn.com/tild6466-3731-4335-a137-656463323465/photo.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="208624895561">
+      <category_id>7</category_id>
+      <name>Мацони в горшочке</name>
+      <description>Куриное филе, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild3832-6466-4435-a432-303035303664/photo.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="501135419981">
+      <category_id>7</category_id>
+      <name>Овдух</name>
+      <description>Куриное филе, картофель отварной, яйца, огурцы, морковь, огурцы маринованные, майонез, укроп, зеленый лук.</description>
+      <price>220</price>
+      <picture>https://static.tildacdn.com/tild6561-6634-4533-a564-623463313366/photo.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="839622768351">
+      <category_id>7</category_id>
+      <name>Сыр сулгуни</name>
+      <description>Руккола, тигровые креветки, помидоры черри, моцарелла, авокадо, соус бальзамический</description>
+      <price>220</price>
+      <picture>https://static.tildacdn.com/tild6233-3837-4537-a565-656566636330/photo.jpg</picture>
+      <weight>75</weight>
+    </product>
+    <product id="382765542701">
+      <category_id>7</category_id>
+      <name>Сырная тарелка с медом</name>
+      <description></description>
+      <price>710</price>
+      <picture>https://static.tildacdn.com/tild6230-3532-4661-a634-626264363363/__2020-10-09__215757.png</picture>
+      <weight>200</weight>
+    </product>
+    <product id="208717426471">
+      <category_id>7</category_id>
+      <name>Малина-маракуйя</name>
+      <description></description>
+      <price>270</price>
+      <picture>https://static.tildacdn.com/tild3238-3165-4565-a561-663764326535/POM_2508.JPG</picture>
+      <weight>350</weight>
+    </product>
+    <product id="474566228261">
+      <category_id>7</category_id>
+      <name>Манго-маракуйя</name>
+      <description></description>
+      <price>270</price>
+      <picture>https://static.tildacdn.com/tild3032-6634-4366-a262-316139373438/POM_2511.JPG</picture>
+      <weight>350</weight>
+    </product>
+    <product id="952663623251">
+      <category_id>7</category_id>
+      <name>Мохито</name>
+      <description></description>
+      <price>270</price>
+      <picture>https://static.tildacdn.com/tild6462-6330-4465-a332-303365386232/POM_2519.JPG</picture>
+      <weight>350</weight>
+    </product>
+    <product id="410214281961">
+      <category_id>7</category_id>
+      <name>Облепиха-груша</name>
+      <description></description>
+      <price>270</price>
+      <picture>https://static.tildacdn.com/tild3337-6430-4864-a435-333039323034/POM_2514.JPG</picture>
+      <weight>350</weight>
+    </product>
+    <product id="173418309041">
+      <category_id>7</category_id>
+      <name>Имбирный</name>
+      <description></description>
+      <price>270</price>
+      <picture>https://static.tildacdn.com/tild3562-3737-4330-b735-313433323731/POM_2518.JPG</picture>
+      <weight>350</weight>
+    </product>
+    <product id="454278132431">
+      <category_id>7</category_id>
+      <name>Тархун</name>
+      <description></description>
+      <price>270</price>
+      <picture>https://static.tildacdn.com/tild6639-6266-4034-b730-663533653834/POM_2546.JPG</picture>
+      <weight>350</weight>
+    </product>
+    <product id="720117917201">
+      <category_id>7</category_id>
+      <name>Ананасовый</name>
+      <description></description>
+      <price>450</price>
+      <picture>https://static.tildacdn.com/tild3064-3536-4261-b566-393663633737/soki.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="982524484591">
+      <category_id>7</category_id>
+      <name>Гранатовый</name>
+      <description></description>
+      <price>590</price>
+      <picture>https://static.tildacdn.com/tild3233-3133-4164-b938-653664323335/soki.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="621721797771">
+      <category_id>7</category_id>
+      <name>Апельсиновый</name>
+      <description></description>
+      <price>250</price>
+      <picture>https://static.tildacdn.com/tild6462-3731-4935-b461-396236393236/soki.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="831200372231">
+      <category_id>7</category_id>
+      <name>Яблочный</name>
+      <description></description>
+      <price>250</price>
+      <picture>https://static.tildacdn.com/tild6636-3566-4538-b833-613935386334/soki.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="330249960211">
+      <category_id>7</category_id>
+      <name>Лимонный</name>
+      <description></description>
+      <price>200</price>
+      <picture>https://static.tildacdn.com/tild6536-6561-4565-b561-376238383130/soki.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="592251965421">
+      <category_id>7</category_id>
+      <name>Морковный</name>
+      <description></description>
+      <price>210</price>
+      <picture>https://static.tildacdn.com/tild6536-6561-4565-b561-376238383130/soki.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="985224667641">
+      <category_id>7</category_id>
+      <name>Лимонад «Натахтари»</name>
+      <description></description>
+      <price>270</price>
+      <picture>https://static.tildacdn.com/tild3266-6233-4636-b731-613736666265/preparati-per-bevand.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="615177238621">
+      <category_id>7</category_id>
+      <name>Морс клюквенный</name>
+      <description></description>
+      <price>90</price>
+      <picture>https://static.tildacdn.com/tild6165-3335-4463-b234-623461656361/preparati-per-bevand.jpg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="779229608631">
+      <category_id>7</category_id>
+      <name>Морс клюквенный</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3863-3135-4538-a234-386535346634/preparati-per-bevand.jpg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="431216369501">
+      <category_id>7</category_id>
+      <name>Азербайджанские компоты</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3432-3735-4134-a430-323365373265/preparati-per-bevand.jpg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="865359552371">
+      <category_id>7</category_id>
+      <name>Соки и нектары «Свелл»</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild6333-3664-4862-b235-363133303166/preparati-per-bevand.jpg</picture>
+      <weight>750</weight>
+    </product>
+    <product id="409507575181">
+      <category_id>7</category_id>
+      <name>Черный классический</name>
+      <description></description>
+      <price>250</price>
+      <picture>https://static.tildacdn.com/tild3464-6239-4664-a133-626162326130/photo.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="699086479571">
+      <category_id>7</category_id>
+      <name>Зеленый с жасмином</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3661-3230-4233-b135-653864623465/photo.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="350619844831">
+      <category_id>7</category_id>
+      <name>Зеленый Тейгуанин улун</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild6436-3133-4361-b438-646261336335/photo.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="291883562641">
+      <category_id>7</category_id>
+      <name>Травяной сбор с медом</name>
+      <description></description>
+      <price>600</price>
+      <picture>https://static.tildacdn.com/tild6163-6330-4530-a434-356638626263/photo.jpg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="208284699391">
+      <category_id>7</category_id>
+      <name>Облепихово-имбирный</name>
+      <description></description>
+      <price>600</price>
+      <picture>https://static.tildacdn.com/tild3433-3933-4336-a638-663035373037/photo.jpg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="948436641931">
+      <category_id>7</category_id>
+      <name>Ибирный с лаймом и медом</name>
+      <description></description>
+      <price>600</price>
+      <picture>https://static.tildacdn.com/tild3433-3933-4336-a638-663035373037/photo.jpg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="317486292041">
+      <category_id>7</category_id>
+      <name>Эспрессо</name>
+      <description></description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild3036-6633-4938-b239-323736333132/rjattttttttt.jpeg</picture>
+      <weight>60</weight>
+    </product>
+    <product id="925094052171">
+      <category_id>7</category_id>
+      <name>Двойной Эспрессо</name>
+      <description></description>
+      <price>250</price>
+      <picture>https://static.tildacdn.com/tild3838-3365-4239-a165-376563356539/rjattttttttt.jpeg</picture>
+      <weight>120</weight>
+    </product>
+    <product id="252917760791">
+      <category_id>7</category_id>
+      <name>Американо</name>
+      <description></description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild6237-3135-4036-a539-313462613837/rjattttttttt.jpeg</picture>
+      <weight>120</weight>
+    </product>
+    <product id="209010256111">
+      <category_id>7</category_id>
+      <name>Капуччино</name>
+      <description></description>
+      <price>260</price>
+      <picture>https://static.tildacdn.com/tild3261-3762-4539-b731-653530386131/rjattttttttt.jpeg</picture>
+      <weight>220</weight>
+    </product>
+    <product id="638506058971">
+      <category_id>7</category_id>
+      <name>Латте</name>
+      <description></description>
+      <price>250</price>
+      <picture>https://static.tildacdn.com/tild6661-3665-4138-b662-643661333763/rjattttttttt.jpeg</picture>
+      <weight>220</weight>
+    </product>
+    <product id="791063035751">
+      <category_id>7</category_id>
+      <name>Гляссе</name>
+      <description></description>
+      <price>280</price>
+      <picture>https://static.tildacdn.com/tild3337-6432-4738-b864-386332383238/rjattttttttt.jpeg</picture>
+      <weight>200</weight>
+    </product>
+    <product id="828255219161">
+      <category_id>7</category_id>
+      <name>Кофе по-восточному</name>
+      <description></description>
+      <price>210</price>
+      <picture>https://static.tildacdn.com/tild3337-6432-4738-b864-386332383238/rjattttttttt.jpeg</picture>
+      <weight>60</weight>
+    </product>
+    <product id="974012956761">
+      <category_id>7</category_id>
+      <name>Тирамису</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3231-3230-4437-b365-386438356164/photo.jpg</picture>
+      <weight>150</weight>
+    </product>
+    <product id="604916151061">
+      <category_id>7</category_id>
+      <name>Штрудель вишневый</name>
+      <description></description>
+      <price>400</price>
+      <picture>https://static.tildacdn.com/tild6164-6461-4930-b339-363333646661/_.jpg</picture>
+      <weight>130</weight>
+    </product>
+    <product id="807787983991">
+      <category_id>7</category_id>
+      <name>Штрудель яблочный</name>
+      <description></description>
+      <price>400</price>
+      <picture>https://static.tildacdn.com/tild3830-3636-4263-b234-356530646638/_.jpg</picture>
+      <weight>130</weight>
+    </product>
+    <product id="899116223631">
+      <category_id>7</category_id>
+      <name>Чизкейк</name>
+      <description></description>
+      <price>330</price>
+      <picture>https://static.tildacdn.com/tild6561-3462-4437-b634-346532333262/photo.jpg</picture>
+      <weight>130</weight>
+    </product>
+  </products>
+ </delivery_service>
+</dc_catalog>
