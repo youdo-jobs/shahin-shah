@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dc_catalog SYSTEM "http://www.delivery-club.ru/xml/dc.dtd">
 
-<dc_catalog last_update="2020-10-25 23:15">
+<dc_catalog last_update="2020-10-26 00:21">
  <delivery_service>
    <categories>
      <category id="1">Салаты</category>
@@ -10,7 +10,22 @@
      <category id="4">Паста</category>
      <category id="5">Супы</category>
      <category id="6">Плов</category>
-     <category id="7">Другое</category>
+     <category id="7">Шашлыки из морепродуктов</category>
+     <category id="8">Шашлыки из овощей</category>
+     <category id="9">Шашлыки из мяса и птицы</category>
+     <category id="10">Гарниры</category>
+     <category id="11">Горячие блюда из мяса и птицы</category>
+     <category id="12">Стейки</category>
+     <category id="13">Садж</category>
+     <category id="14">Грузинская кухня</category>
+     <category id="15">Сыры, молочные продукты</category>
+     <category id="16">Домашние лимонады</category>
+     <category id="17">Свежевыжатые соки</category>
+     <category id="18">Прохладительные напитки</category>
+     <category id="19">Чай</category>
+     <category id="20">Кофе</category>
+     <category id="21">Десерты</category>
+     <category id="22">Другое</category>
   </categories>
   <products>
     <product id="317611567491">
@@ -293,14 +308,6 @@
       <picture>https://static.tildacdn.com/tild6130-3563-4338-a637-616664643966/___.jpg</picture>
       <weight>270</weight>
     </product>
-    <product id="111212591911">
-      <category_id>3</category_id>
-      <name>Кутаб с тыквой</name>
-      <description></description>
-      <price>130</price>
-      <picture>https://static.tildacdn.com/tild3930-3133-4230-b561-343438396662/__.jpg</picture>
-      <weight>80</weight>
-    </product>
     <product id="905453929511">
       <category_id>3</category_id>
       <name>Долма из виноградных листьев</name>
@@ -340,22 +347,6 @@
       <price>150</price>
       <picture>https://static.tildacdn.com/tild6166-6532-4834-a138-613134336630/safar0264_1.jpg</picture>
       <weight>80</weight>
-    </product>
-    <product id="245189873791">
-      <category_id>3</category_id>
-      <name>Тарталетка с куриным жульеном</name>
-      <description>Куриное филе, соус жульен, сыр моцарелла <br /></description>
-      <price>230</price>
-      <picture>https://static.tildacdn.com/tild3037-3834-4338-b233-366133383863/1363011.svg</picture>
-      <weight>110</weight>
-    </product>
-    <product id="159580521781">
-      <category_id>3</category_id>
-      <name>Тарталетка с грибным жульеном</name>
-      <description>Шампиньоны жаренные, соус жульен, сыр эдам <br /></description>
-      <price>230</price>
-      <picture>https://static.tildacdn.com/tild3037-3834-4338-b233-366133383863/1363011.svg</picture>
-      <weight>110</weight>
     </product>
     <product id="261186667271">
       <category_id>4</category_id>
@@ -534,7 +525,7 @@
       <weight>200</weight>
     </product>
     <product id="926790077021">
-      <category_id>7</category_id>
+      <category_id>8</category_id>
       <name>Помидор</name>
       <description></description>
       <price>110</price>
@@ -542,7 +533,7 @@
       <weight>100</weight>
     </product>
     <product id="559559627641">
-      <category_id>7</category_id>
+      <category_id>8</category_id>
       <name>Баклажан</name>
       <description></description>
       <price>200</price>
@@ -550,7 +541,7 @@
       <weight>110</weight>
     </product>
     <product id="817626506141">
-      <category_id>7</category_id>
+      <category_id>8</category_id>
       <name>Молодой картофель</name>
       <description></description>
       <price>190</price>
@@ -558,7 +549,7 @@
       <weight>180</weight>
     </product>
     <product id="861037625031">
-      <category_id>7</category_id>
+      <category_id>8</category_id>
       <name>Люля-кебаб из картофеля</name>
       <description></description>
       <price>160</price>
@@ -566,7 +557,7 @@
       <weight>160</weight>
     </product>
     <product id="360006213701">
-      <category_id>7</category_id>
+      <category_id>8</category_id>
       <name>Перец болгарский</name>
       <description></description>
       <price>120</price>
@@ -574,7 +565,7 @@
       <weight>100</weight>
     </product>
     <product id="207046542291">
-      <category_id>7</category_id>
+      <category_id>8</category_id>
       <name>Шампиньоны</name>
       <description></description>
       <price>250</price>
@@ -582,7 +573,7 @@
       <weight>150</weight>
     </product>
     <product id="448622810501">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Шахин-шах</name>
       <description></description>
       <price>2150</price>
@@ -590,7 +581,7 @@
       <weight>250</weight>
     </product>
     <product id="638050388081">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Цыпленок</name>
       <description></description>
       <price>650</price>
@@ -598,7 +589,7 @@
       <weight>250</weight>
     </product>
     <product id="421397865681">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Шашлык Хан-кебаб</name>
       <description></description>
       <price>400</price>
@@ -606,7 +597,7 @@
       <weight>180</weight>
     </product>
     <product id="241945879961">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Телячья мякоть</name>
       <description></description>
       <price>880</price>
@@ -614,7 +605,7 @@
       <weight>170</weight>
     </product>
     <product id="575591543401">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Телячья грудинка</name>
       <description></description>
       <price>690</price>
@@ -622,7 +613,7 @@
       <weight>200</weight>
     </product>
     <product id="431329653561">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Сердце</name>
       <description></description>
       <price>390</price>
@@ -630,7 +621,7 @@
       <weight>170</weight>
     </product>
     <product id="493501907651">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Свиная шейка</name>
       <description></description>
       <price>480</price>
@@ -638,7 +629,7 @@
       <weight>170</weight>
     </product>
     <product id="213450389421">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Почки</name>
       <description></description>
       <price>350</price>
@@ -646,7 +637,7 @@
       <weight>160</weight>
     </product>
     <product id="234552383271">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Перепелка</name>
       <description></description>
       <price>550</price>
@@ -654,7 +645,7 @@
       <weight>200</weight>
     </product>
     <product id="472672607721">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Люля-кебаб из телятины</name>
       <description></description>
       <price>680</price>
@@ -662,7 +653,7 @@
       <weight>170</weight>
     </product>
     <product id="867962595431">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Люля-кебаб из курицы</name>
       <description></description>
       <price>350</price>
@@ -670,7 +661,7 @@
       <weight>170</weight>
     </product>
     <product id="465466893011">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Куриные крылышки</name>
       <description></description>
       <price>350</price>
@@ -678,7 +669,7 @@
       <weight>170</weight>
     </product>
     <product id="125508083221">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Куриное филе</name>
       <description></description>
       <price>390</price>
@@ -686,7 +677,7 @@
       <weight>170</weight>
     </product>
     <product id="283882521111">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Корейка ягненка</name>
       <description></description>
       <price>590</price>
@@ -694,7 +685,7 @@
       <weight>160</weight>
     </product>
     <product id="646390710861">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Говяжий язык</name>
       <description></description>
       <price>610</price>
@@ -702,7 +693,7 @@
       <weight>170</weight>
     </product>
     <product id="701138373051">
-      <category_id>7</category_id>
+      <category_id>9</category_id>
       <name>Мякоть ягненка на кости</name>
       <description></description>
       <price>570</price>
@@ -710,7 +701,7 @@
       <weight>245</weight>
     </product>
     <product id="577942058951">
-      <category_id>7</category_id>
+      <category_id>10</category_id>
       <name>Картофель по-домашнему с луком</name>
       <description></description>
       <price>200</price>
@@ -718,7 +709,7 @@
       <weight>150</weight>
     </product>
     <product id="514661463681">
-      <category_id>7</category_id>
+      <category_id>10</category_id>
       <name>Картофель фри</name>
       <description></description>
       <price>180</price>
@@ -726,7 +717,7 @@
       <weight>150</weight>
     </product>
     <product id="468227354751">
-      <category_id>7</category_id>
+      <category_id>10</category_id>
       <name>Картофель по-деревенски</name>
       <description></description>
       <price>220</price>
@@ -734,7 +725,7 @@
       <weight>150</weight>
     </product>
     <product id="684319897281">
-      <category_id>7</category_id>
+      <category_id>10</category_id>
       <name>Картофельное пюре</name>
       <description></description>
       <price>180</price>
@@ -742,7 +733,7 @@
       <weight>150</weight>
     </product>
     <product id="502750694451">
-      <category_id>7</category_id>
+      <category_id>10</category_id>
       <name>Картофель отварной с зеленью</name>
       <description></description>
       <price>170</price>
@@ -750,7 +741,7 @@
       <weight>150</weight>
     </product>
     <product id="448752763861">
-      <category_id>7</category_id>
+      <category_id>10</category_id>
       <name>Гречка</name>
       <description></description>
       <price>170</price>
@@ -758,7 +749,7 @@
       <weight>150</weight>
     </product>
     <product id="511279797931">
-      <category_id>7</category_id>
+      <category_id>10</category_id>
       <name>Рис</name>
       <description></description>
       <price>180</price>
@@ -766,7 +757,7 @@
       <weight>150</weight>
     </product>
     <product id="860727204231">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Цыпленок Табака</name>
       <description></description>
       <price>610</price>
@@ -774,7 +765,7 @@
       <weight>300</weight>
     </product>
     <product id="592849510621">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Котлеты по – киевски</name>
       <description></description>
       <price>520</price>
@@ -782,7 +773,7 @@
       <weight>215</weight>
     </product>
     <product id="850206531501">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Хашлама из баранины</name>
       <description></description>
       <price>700</price>
@@ -790,7 +781,7 @@
       <weight>320</weight>
     </product>
     <product id="621363258541">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Свинина с грушей</name>
       <description></description>
       <price>470</price>
@@ -798,7 +789,7 @@
       <weight>320</weight>
     </product>
     <product id="376146884581">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Джыз- быз</name>
       <description></description>
       <price>400</price>
@@ -806,7 +797,7 @@
       <weight>250</weight>
     </product>
     <product id="130912073661">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Свинина по- старорусски</name>
       <description></description>
       <price>530</price>
@@ -814,7 +805,7 @@
       <weight>250</weight>
     </product>
     <product id="958904017071">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Гийма хинкал</name>
       <description></description>
       <price>350</price>
@@ -822,7 +813,7 @@
       <weight>350</weight>
     </product>
     <product id="517336345181">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Жаркое по-домашнему из баранины</name>
       <description></description>
       <price>500</price>
@@ -830,7 +821,7 @@
       <weight>350</weight>
     </product>
     <product id="377140505111">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Мясо по-строгановски</name>
       <description></description>
       <price>650</price>
@@ -838,7 +829,7 @@
       <weight>185</weight>
     </product>
     <product id="690193719731">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Цыпленок чыхыртма</name>
       <description></description>
       <price>790</price>
@@ -846,7 +837,7 @@
       <weight>420</weight>
     </product>
     <product id="898354703771">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Вырезка из ягненка</name>
       <description></description>
       <price>630</price>
@@ -854,7 +845,7 @@
       <weight>170</weight>
     </product>
     <product id="393908961051">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Ребрышки ягненка</name>
       <description></description>
       <price>390</price>
@@ -862,7 +853,7 @@
       <weight>170</weight>
     </product>
     <product id="363589614471">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Люля-кебаб из ягненка</name>
       <description></description>
       <price>490</price>
@@ -870,7 +861,7 @@
       <weight>170</weight>
     </product>
     <product id="640907849751">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Печень ягненка с курдюком</name>
       <description></description>
       <price>410</price>
@@ -878,7 +869,7 @@
       <weight>170</weight>
     </product>
     <product id="224799022351">
-      <category_id>7</category_id>
+      <category_id>11</category_id>
       <name>Свиные ребра</name>
       <description></description>
       <price>550</price>
@@ -886,7 +877,7 @@
       <weight>260</weight>
     </product>
     <product id="186571255671">
-      <category_id>7</category_id>
+      <category_id>12</category_id>
       <name>Филе миньон</name>
       <description></description>
       <price>900</price>
@@ -894,7 +885,7 @@
       <weight>280</weight>
     </product>
     <product id="692699826021">
-      <category_id>7</category_id>
+      <category_id>12</category_id>
       <name>Кафе де пари</name>
       <description></description>
       <price>1290</price>
@@ -902,7 +893,7 @@
       <weight>220</weight>
     </product>
     <product id="198061623381">
-      <category_id>7</category_id>
+      <category_id>12</category_id>
       <name>Стейк Шахин-шах</name>
       <description></description>
       <price>1350</price>
@@ -910,7 +901,7 @@
       <weight>220</weight>
     </product>
     <product id="377434371631">
-      <category_id>7</category_id>
+      <category_id>12</category_id>
       <name>Стейк по –азиатски</name>
       <description></description>
       <price>1280</price>
@@ -918,7 +909,7 @@
       <weight>220</weight>
     </product>
     <product id="471031201751">
-      <category_id>7</category_id>
+      <category_id>13</category_id>
       <name>Садж-ковурма из баранины на углях на 2 персоны</name>
       <description></description>
       <price>1200</price>
@@ -926,7 +917,7 @@
       <weight>800</weight>
     </product>
     <product id="501635273271">
-      <category_id>7</category_id>
+      <category_id>13</category_id>
       <name>Садж- ковурма из курицы на углях на 2 персоны</name>
       <description></description>
       <price>990</price>
@@ -934,7 +925,7 @@
       <weight>800</weight>
     </product>
     <product id="373945958631">
-      <category_id>7</category_id>
+      <category_id>13</category_id>
       <name>Садж- ковурма из телятины на угляхна 2 персоны</name>
       <description></description>
       <price>1520</price>
@@ -942,7 +933,7 @@
       <weight>800</weight>
     </product>
     <product id="245871592941">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Чвишдари</name>
       <description>Лепешка из кукурузной муки с сыром сулгуни</description>
       <price>220</price>
@@ -950,7 +941,7 @@
       <weight>160</weight>
     </product>
     <product id="879191473291">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Шампиньоны фаршированные сыром</name>
       <description></description>
       <price>380</price>
@@ -958,7 +949,7 @@
       <weight>270</weight>
     </product>
     <product id="498427296401">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Хачапури по-аджарски</name>
       <description>Сыр сулугуни, яйцо</description>
       <price>380</price>
@@ -966,7 +957,7 @@
       <weight>390</weight>
     </product>
     <product id="652042012111">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Хинкали с бараниной</name>
       <description></description>
       <price>330</price>
@@ -974,7 +965,7 @@
       <weight>330</weight>
     </product>
     <product id="120318762651">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Сациви с курицей</name>
       <description>Грудка цыпленка с соусом из грецкого ореха со специями</description>
       <price>420</price>
@@ -982,7 +973,7 @@
       <weight>280</weight>
     </product>
     <product id="402771457541">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Суп харчо</name>
       <description>Говядина, помидоры, рис, специи, перец острый, перец болгарский</description>
       <price>330</price>
@@ -990,7 +981,7 @@
       <weight>300</weight>
     </product>
     <product id="942070572971">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Хачапури по-менгрельски 30 см</name>
       <description>Сыр сулугуни</description>
       <price>510</price>
@@ -998,7 +989,7 @@
       <weight>590</weight>
     </product>
     <product id="466481121121">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Пхали из шпината</name>
       <description>Шпинат с грецким орехом и специями</description>
       <price>300</price>
@@ -1006,7 +997,7 @@
       <weight>150</weight>
     </product>
     <product id="506924860171">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Пхали с о свеклой</name>
       <description>Свекла с грецким орехом и специями</description>
       <price>300</price>
@@ -1014,7 +1005,7 @@
       <weight>150</weight>
     </product>
     <product id="667058351421">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Рулетики из баклажанов с ореховой начинкой</name>
       <description>Жаренные баклажаны, грецкий орех, гранат, специи</description>
       <price>480</price>
@@ -1022,7 +1013,7 @@
       <weight>180</weight>
     </product>
     <product id="464090919961">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Оджахури из баранины</name>
       <description>Баранина, помидоры, перец острый, зелень, чеснок, картофель, перец болгарский</description>
       <price>530</price>
@@ -1030,7 +1021,7 @@
       <weight>300</weight>
     </product>
     <product id="491968245381">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Оджахури из свинины</name>
       <description>Свинина, лук репчатый, зелень, специи, болгарский перец, картофель</description>
       <price>510</price>
@@ -1038,7 +1029,7 @@
       <weight>300</weight>
     </product>
     <product id="541707816521">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Оджахури из мяса молодого бычка</name>
       <description>Говядина, лук репчатый , зелень, специи, болгарский перец, картофель</description>
       <price>620</price>
@@ -1046,7 +1037,7 @@
       <weight>350</weight>
     </product>
     <product id="688646628111">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Пхали из стручковой фасоли</name>
       <description>Зеленая фасоль с грецким орехом и специями</description>
       <price>300</price>
@@ -1054,7 +1045,7 @@
       <weight>150</weight>
     </product>
     <product id="626138296491">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Лобио по-имертински</name>
       <description>Фасоль красная, перец острый, стебель сельдерея, специи</description>
       <price>400</price>
@@ -1062,7 +1053,7 @@
       <weight>330</weight>
     </product>
     <product id="935674589431">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Салат овощной по-грузински с орехами</name>
       <description>Помидоры, огурцы, перец острый, лук красный, зелень, грецкий орех <br /></description>
       <price>350</price>
@@ -1070,7 +1061,7 @@
       <weight>250</weight>
     </product>
     <product id="882225731191">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Аджапсандали</name>
       <description>Болгарский перец, баклажаны, специи, зелень</description>
       <price>330</price>
@@ -1078,7 +1069,7 @@
       <weight>200</weight>
     </product>
     <product id="320382033351">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Ассорти пхали</name>
       <description>Свекольный, зеленое лобио, шпинат</description>
       <price>550</price>
@@ -1086,7 +1077,7 @@
       <weight>300</weight>
     </product>
     <product id="700728473381">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Жареный сулугуни с соусом ежевики</name>
       <description></description>
       <price>350</price>
@@ -1094,7 +1085,7 @@
       <weight>180</weight>
     </product>
     <product id="911837354341">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Лобио по-грузински</name>
       <description>Красная фасоль, чеснок, грецкий орех, зелень, специи</description>
       <price>300</price>
@@ -1102,7 +1093,7 @@
       <weight>30</weight>
     </product>
     <product id="242248614851">
-      <category_id>7</category_id>
+      <category_id>14</category_id>
       <name>Хачапури по-имертински 30 см</name>
       <description>Красная фасоль, чеснок, грецкий орех, зелень, специи</description>
       <price>480</price>
@@ -1110,7 +1101,7 @@
       <weight>550</weight>
     </product>
     <product id="947652409811">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Айран</name>
       <description>Бакинские огурцы и помидоры, зелень, красный лук, сок лимона, оливковое масло, базилик</description>
       <price>180</price>
@@ -1118,7 +1109,7 @@
       <weight>250</weight>
     </product>
     <product id="719316106181">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Ассорти из кавказских сыров</name>
       <description>Язык говяжий, помидоры, руккола, сыр пармезан, чесночный соус, грецкий орех, майонез</description>
       <price>620</price>
@@ -1126,7 +1117,7 @@
       <weight>300</weight>
     </product>
     <product id="744647869461">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Брынза</name>
       <description>Филе семги, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
       <price>230</price>
@@ -1134,7 +1125,7 @@
       <weight>75</weight>
     </product>
     <product id="239363146711">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Довга</name>
       <description>Тигровые креветки, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
       <price>250</price>
@@ -1142,7 +1133,7 @@
       <weight>250</weight>
     </product>
     <product id="208624895561">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Мацони в горшочке</name>
       <description>Куриное филе, соус цезарь, сыр пармезан, помидоры черри, салат романо</description>
       <price>180</price>
@@ -1150,7 +1141,7 @@
       <weight>150</weight>
     </product>
     <product id="501135419981">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Овдух</name>
       <description>Куриное филе, картофель отварной, яйца, огурцы, морковь, огурцы маринованные, майонез, укроп, зеленый лук.</description>
       <price>220</price>
@@ -1158,7 +1149,7 @@
       <weight>250</weight>
     </product>
     <product id="839622768351">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Сыр сулгуни</name>
       <description>Руккола, тигровые креветки, помидоры черри, моцарелла, авокадо, соус бальзамический</description>
       <price>220</price>
@@ -1166,7 +1157,7 @@
       <weight>75</weight>
     </product>
     <product id="382765542701">
-      <category_id>7</category_id>
+      <category_id>15</category_id>
       <name>Сырная тарелка с медом</name>
       <description></description>
       <price>710</price>
@@ -1174,7 +1165,7 @@
       <weight>200</weight>
     </product>
     <product id="208717426471">
-      <category_id>7</category_id>
+      <category_id>16</category_id>
       <name>Малина-маракуйя</name>
       <description></description>
       <price>270</price>
@@ -1182,7 +1173,7 @@
       <weight>350</weight>
     </product>
     <product id="474566228261">
-      <category_id>7</category_id>
+      <category_id>16</category_id>
       <name>Манго-маракуйя</name>
       <description></description>
       <price>270</price>
@@ -1190,7 +1181,7 @@
       <weight>350</weight>
     </product>
     <product id="952663623251">
-      <category_id>7</category_id>
+      <category_id>16</category_id>
       <name>Мохито</name>
       <description></description>
       <price>270</price>
@@ -1198,7 +1189,7 @@
       <weight>350</weight>
     </product>
     <product id="410214281961">
-      <category_id>7</category_id>
+      <category_id>16</category_id>
       <name>Облепиха-груша</name>
       <description></description>
       <price>270</price>
@@ -1206,7 +1197,7 @@
       <weight>350</weight>
     </product>
     <product id="173418309041">
-      <category_id>7</category_id>
+      <category_id>16</category_id>
       <name>Имбирный</name>
       <description></description>
       <price>270</price>
@@ -1214,7 +1205,7 @@
       <weight>350</weight>
     </product>
     <product id="454278132431">
-      <category_id>7</category_id>
+      <category_id>16</category_id>
       <name>Тархун</name>
       <description></description>
       <price>270</price>
@@ -1222,7 +1213,7 @@
       <weight>350</weight>
     </product>
     <product id="720117917201">
-      <category_id>7</category_id>
+      <category_id>17</category_id>
       <name>Ананасовый</name>
       <description></description>
       <price>450</price>
@@ -1230,7 +1221,7 @@
       <weight>200</weight>
     </product>
     <product id="982524484591">
-      <category_id>7</category_id>
+      <category_id>17</category_id>
       <name>Гранатовый</name>
       <description></description>
       <price>590</price>
@@ -1238,7 +1229,7 @@
       <weight>200</weight>
     </product>
     <product id="621721797771">
-      <category_id>7</category_id>
+      <category_id>17</category_id>
       <name>Апельсиновый</name>
       <description></description>
       <price>250</price>
@@ -1246,7 +1237,7 @@
       <weight>200</weight>
     </product>
     <product id="831200372231">
-      <category_id>7</category_id>
+      <category_id>17</category_id>
       <name>Яблочный</name>
       <description></description>
       <price>250</price>
@@ -1254,7 +1245,7 @@
       <weight>200</weight>
     </product>
     <product id="330249960211">
-      <category_id>7</category_id>
+      <category_id>17</category_id>
       <name>Лимонный</name>
       <description></description>
       <price>200</price>
@@ -1262,7 +1253,7 @@
       <weight>200</weight>
     </product>
     <product id="592251965421">
-      <category_id>7</category_id>
+      <category_id>17</category_id>
       <name>Морковный</name>
       <description></description>
       <price>210</price>
@@ -1270,7 +1261,7 @@
       <weight>200</weight>
     </product>
     <product id="985224667641">
-      <category_id>7</category_id>
+      <category_id>18</category_id>
       <name>Лимонад «Натахтари»</name>
       <description></description>
       <price>270</price>
@@ -1278,7 +1269,7 @@
       <weight>500</weight>
     </product>
     <product id="615177238621">
-      <category_id>7</category_id>
+      <category_id>18</category_id>
       <name>Морс клюквенный</name>
       <description></description>
       <price>90</price>
@@ -1286,7 +1277,7 @@
       <weight>200</weight>
     </product>
     <product id="779229608631">
-      <category_id>7</category_id>
+      <category_id>18</category_id>
       <name>Морс клюквенный</name>
       <description></description>
       <price>350</price>
@@ -1294,7 +1285,7 @@
       <weight>1000</weight>
     </product>
     <product id="431216369501">
-      <category_id>7</category_id>
+      <category_id>18</category_id>
       <name>Азербайджанские компоты</name>
       <description></description>
       <price>390</price>
@@ -1302,7 +1293,7 @@
       <weight>1000</weight>
     </product>
     <product id="865359552371">
-      <category_id>7</category_id>
+      <category_id>18</category_id>
       <name>Соки и нектары «Свелл»</name>
       <description></description>
       <price>290</price>
@@ -1310,7 +1301,7 @@
       <weight>750</weight>
     </product>
     <product id="409507575181">
-      <category_id>7</category_id>
+      <category_id>19</category_id>
       <name>Черный классический</name>
       <description></description>
       <price>250</price>
@@ -1318,7 +1309,7 @@
       <weight>500</weight>
     </product>
     <product id="699086479571">
-      <category_id>7</category_id>
+      <category_id>19</category_id>
       <name>Зеленый с жасмином</name>
       <description></description>
       <price>350</price>
@@ -1326,7 +1317,7 @@
       <weight>500</weight>
     </product>
     <product id="350619844831">
-      <category_id>7</category_id>
+      <category_id>19</category_id>
       <name>Зеленый Тейгуанин улун</name>
       <description></description>
       <price>350</price>
@@ -1334,7 +1325,7 @@
       <weight>500</weight>
     </product>
     <product id="291883562641">
-      <category_id>7</category_id>
+      <category_id>19</category_id>
       <name>Травяной сбор с медом</name>
       <description></description>
       <price>600</price>
@@ -1342,7 +1333,7 @@
       <weight>1000</weight>
     </product>
     <product id="208284699391">
-      <category_id>7</category_id>
+      <category_id>19</category_id>
       <name>Облепихово-имбирный</name>
       <description></description>
       <price>600</price>
@@ -1350,7 +1341,7 @@
       <weight>1000</weight>
     </product>
     <product id="948436641931">
-      <category_id>7</category_id>
+      <category_id>19</category_id>
       <name>Ибирный с лаймом и медом</name>
       <description></description>
       <price>600</price>
@@ -1358,7 +1349,7 @@
       <weight>1000</weight>
     </product>
     <product id="317486292041">
-      <category_id>7</category_id>
+      <category_id>20</category_id>
       <name>Эспрессо</name>
       <description></description>
       <price>180</price>
@@ -1366,7 +1357,7 @@
       <weight>60</weight>
     </product>
     <product id="925094052171">
-      <category_id>7</category_id>
+      <category_id>20</category_id>
       <name>Двойной Эспрессо</name>
       <description></description>
       <price>250</price>
@@ -1374,7 +1365,7 @@
       <weight>120</weight>
     </product>
     <product id="252917760791">
-      <category_id>7</category_id>
+      <category_id>20</category_id>
       <name>Американо</name>
       <description></description>
       <price>180</price>
@@ -1382,7 +1373,7 @@
       <weight>120</weight>
     </product>
     <product id="209010256111">
-      <category_id>7</category_id>
+      <category_id>20</category_id>
       <name>Капуччино</name>
       <description></description>
       <price>260</price>
@@ -1390,7 +1381,7 @@
       <weight>220</weight>
     </product>
     <product id="638506058971">
-      <category_id>7</category_id>
+      <category_id>20</category_id>
       <name>Латте</name>
       <description></description>
       <price>250</price>
@@ -1398,7 +1389,7 @@
       <weight>220</weight>
     </product>
     <product id="791063035751">
-      <category_id>7</category_id>
+      <category_id>20</category_id>
       <name>Гляссе</name>
       <description></description>
       <price>280</price>
@@ -1406,7 +1397,7 @@
       <weight>200</weight>
     </product>
     <product id="828255219161">
-      <category_id>7</category_id>
+      <category_id>20</category_id>
       <name>Кофе по-восточному</name>
       <description></description>
       <price>210</price>
@@ -1414,7 +1405,7 @@
       <weight>60</weight>
     </product>
     <product id="974012956761">
-      <category_id>7</category_id>
+      <category_id>21</category_id>
       <name>Тирамису</name>
       <description></description>
       <price>350</price>
@@ -1422,7 +1413,7 @@
       <weight>150</weight>
     </product>
     <product id="604916151061">
-      <category_id>7</category_id>
+      <category_id>21</category_id>
       <name>Штрудель вишневый</name>
       <description></description>
       <price>400</price>
@@ -1430,7 +1421,7 @@
       <weight>130</weight>
     </product>
     <product id="807787983991">
-      <category_id>7</category_id>
+      <category_id>21</category_id>
       <name>Штрудель яблочный</name>
       <description></description>
       <price>400</price>
@@ -1438,12 +1429,124 @@
       <weight>130</weight>
     </product>
     <product id="899116223631">
-      <category_id>7</category_id>
+      <category_id>21</category_id>
       <name>Чизкейк</name>
       <description></description>
       <price>330</price>
       <picture>https://static.tildacdn.com/tild6561-3462-4437-b634-346532333262/photo.jpg</picture>
       <weight>130</weight>
+    </product>
+    <product id="592778460271">
+      <category_id>21</category_id>
+      <name>Три шоколада</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild6531-3566-4966-a332-636138383332/_.jpg</picture>
+      <weight>130</weight>
+    </product>
+    <product id="478253762151">
+      <category_id>21</category_id>
+      <name>Морковный</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild6266-6133-4064-b761-643736666565/photo.jpg</picture>
+      <weight>120</weight>
+    </product>
+    <product id="915434579721">
+      <category_id>21</category_id>
+      <name>Пахлава</name>
+      <description></description>
+      <price>180</price>
+      <picture>https://static.tildacdn.com/tild3139-3633-4166-b939-376238623038/POM_2564.JPG</picture>
+      <weight>80</weight>
+    </product>
+    <product id="146733763051">
+      <category_id>21</category_id>
+      <name>Шекербура</name>
+      <description></description>
+      <price>160</price>
+      <picture>https://static.tildacdn.com/tild3265-6137-4233-b166-323832663934/photo.JPG</picture>
+      <weight>70</weight>
+    </product>
+    <product id="231268896661">
+      <category_id>21</category_id>
+      <name>Мутаки</name>
+      <description></description>
+      <price>140</price>
+      <picture>https://static.tildacdn.com/tild3562-3234-4564-a434-393138336334/photo.JPG</picture>
+      <weight>60</weight>
+    </product>
+    <product id="457326931681">
+      <category_id>21</category_id>
+      <name>Террин фисташковый</name>
+      <description></description>
+      <price>350</price>
+      <picture>https://static.tildacdn.com/tild3438-3237-4337-b532-346532303661/_.jpg</picture>
+      <weight>125</weight>
+    </product>
+    <product id="956277617401">
+      <category_id>7</category_id>
+      <name>Шашлык из осетрины</name>
+      <description></description>
+      <price>1750</price>
+      <picture>https://static.tildacdn.com/tild6461-3933-4431-b934-306630396639/noimg.gif</picture>
+      <weight>150</weight>
+    </product>
+    <product id="360657079371">
+      <category_id>3</category_id>
+      <name>Тарталетка с куриным жульеном</name>
+      <description>Куриное филе, соус жульен, сыр моцарелла</description>
+      <price>230</price>
+      <picture>https://static.tildacdn.com/tild6631-3135-4333-a137-616435646561/12345.jpeg</picture>
+      <weight>110</weight>
+    </product>
+    <product id="430782186741">
+      <category_id>3</category_id>
+      <name>Тарталетка с грибным жульеном</name>
+      <description>Шампиньоны жаренные, соус жульен, сыр эдам</description>
+      <price>230</price>
+      <picture>https://static.tildacdn.com/tild3163-6234-4264-a437-383064616364/12345.jpeg</picture>
+      <weight>110</weight>
+    </product>
+    <product id="811839075181">
+      <category_id>3</category_id>
+      <name>Тарталетка с креветочным жульеном</name>
+      <description></description>
+      <price>340</price>
+      <picture>https://static.tildacdn.com/tild3063-3131-4566-a264-666139613935/12345.jpeg</picture>
+      <weight>110</weight>
+    </product>
+    <product id="738013592671">
+      <category_id>3</category_id>
+      <name>Кутабы с мясом</name>
+      <description></description>
+      <price>160</price>
+      <picture>https://static.tildacdn.com/tild6438-3638-4664-b761-353736663834/noimg.gif</picture>
+      <weight>80</weight>
+    </product>
+    <product id="971655403011">
+      <category_id>3</category_id>
+      <name>Блины с мясом</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3730-6131-4331-a362-353835336134/noimg.gif</picture>
+      <weight>150</weight>
+    </product>
+    <product id="771555675641">
+      <category_id>3</category_id>
+      <name>Блины с медом</name>
+      <description></description>
+      <price>140</price>
+      <picture>https://static.tildacdn.com/tild3237-3365-4732-a666-343462613361/noimg.gif</picture>
+      <weight>110</weight>
+    </product>
+    <product id="527266968621">
+      <category_id>3</category_id>
+      <name>Кюрза жаренная</name>
+      <description></description>
+      <price>450</price>
+      <picture>https://static.tildacdn.com/tild6265-3361-4634-b939-303331373030/noimg.gif</picture>
+      <weight>280</weight>
     </product>
   </products>
  </delivery_service>
