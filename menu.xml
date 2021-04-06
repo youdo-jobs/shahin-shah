@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE dc_catalog SYSTEM "http://www.delivery-club.ru/xml/dc.dtd">
 
-<dc_catalog last_update="2020-11-24 22:44">
+<dc_catalog last_update="2021-04-06 18:54">
  <delivery_service>
    <categories>
      <category id="1">Салаты</category>
@@ -29,7 +29,8 @@
      <category id="23">Хлеб</category>
      <category id="24">Соусы</category>
      <category id="25">Пицца</category>
-     <category id="26">Другое</category>
+     <category id="26">Прохладительные напитки;Пицца</category>
+     <category id="27">Другое</category>
   </categories>
   <products>
     <product id="317611567491">
@@ -149,7 +150,7 @@
       <name>Помидоры узбекские</name>
       <description></description>
       <price>370</price>
-      <picture>https://static.tildacdn.com/tild3930-3334-4238-b465-313532356133/_.jpg</picture>
+      <picture>https://static.tildacdn.com/tild3664-3436-4639-a462-333939623938/Instagram_Post_-_1.png</picture>
       <weight>200</weight>
     </product>
     <product id="295033354261">
@@ -226,7 +227,7 @@
     </product>
     <product id="599721188371">
       <category_id>2</category_id>
-      <name>Язык бараний отварной</name>
+      <name>Язык говяжий отварной</name>
       <description></description>
       <price>350</price>
       <picture>https://static.tildacdn.com/tild3037-3263-4563-b061-383634343762/_.jpg</picture>
@@ -371,7 +372,7 @@
     <product id="791327100611">
       <category_id>4</category_id>
       <name>Спагетти Маргарита</name>
-      <description>Сыр пармезан, помидоры, чеснок, оливковое масло, базилик <br /></description>
+      <description>Сыр пармезан, спагетти, помидоры, чеснок, оливковое масло, базилик <br /></description>
       <price>390</price>
       <picture>https://static.tildacdn.com/tild6137-3137-4765-a439-363730666232/_.jpg</picture>
       <weight>280</weight>
@@ -420,7 +421,7 @@
       <category_id>5</category_id>
       <name>Кюфта бозбаш</name>
       <description>Азербайджанская большая тефтеля из рубленного мяса ягненка в собственном бульоне <br /></description>
-      <price>380</price>
+      <price>410</price>
       <picture>https://static.tildacdn.com/tild6332-3565-4136-b631-326232373462/-.jpg</picture>
       <weight>350</weight>
     </product>
@@ -588,7 +589,7 @@
       <category_id>10</category_id>
       <name>Цыпленок по-шкмерски</name>
       <description></description>
-      <price>650</price>
+      <price>750</price>
       <picture>https://static.tildacdn.com/tild6430-3065-4136-a162-346436303134/__--aerate.jpg</picture>
       <weight>250</weight>
     </product>
@@ -916,7 +917,7 @@
       <category_id>14</category_id>
       <name>Садж-ковурма из баранины на углях на 2 персоны</name>
       <description>Ягненок, баклажан, помидоры черри, картофель, зелень, шампиньоны, лаваш</description>
-      <price>1200</price>
+      <price>1280</price>
       <picture>https://static.tildacdn.com/tild6236-6438-4462-b162-343064646566/___1.jpg</picture>
       <weight>800</weight>
     </product>
@@ -976,14 +977,6 @@
       <picture>https://static.tildacdn.com/tild3661-3238-4663-a332-313762393133/photo.jpg</picture>
       <weight>280</weight>
     </product>
-    <product id="402771457541">
-      <category_id>10</category_id>
-      <name>Суп харчо</name>
-      <description>Говядина, помидоры, рис, специи, перец острый, перец болгарский</description>
-      <price>330</price>
-      <picture>https://static.tildacdn.com/tild3831-3166-4437-a466-323266613562/photo.jpg</picture>
-      <weight>300</weight>
-    </product>
     <product id="942070572971">
       <category_id>10</category_id>
       <name>Хачапури по-менгрельски 30 см.</name>
@@ -1015,22 +1008,6 @@
       <price>480</price>
       <picture>https://static.tildacdn.com/tild3766-6236-4731-b238-353530393265/__.jpg</picture>
       <weight>180</weight>
-    </product>
-    <product id="464090919961">
-      <category_id>10</category_id>
-      <name>Оджахури из баранины</name>
-      <description>Баранина, помидоры, перец острый, зелень, чеснок, картофель, перец болгарский</description>
-      <price>530</price>
-      <picture>https://static.tildacdn.com/tild3038-3265-4632-b033-666635636331/photo.jpg</picture>
-      <weight>300</weight>
-    </product>
-    <product id="491968245381">
-      <category_id>10</category_id>
-      <name>Оджахури из свинины</name>
-      <description>Свинина, лук репчатый, зелень, специи, болгарский перец, картофель</description>
-      <price>510</price>
-      <picture>https://static.tildacdn.com/tild6530-3466-4538-a332-643136613735/photo.jpg</picture>
-      <weight>300</weight>
     </product>
     <product id="688646628111">
       <category_id>10</category_id>
@@ -1256,20 +1233,12 @@
       <picture>https://static.tildacdn.com/tild6536-6561-4565-b561-376238383130/soki.jpg</picture>
       <weight>200</weight>
     </product>
-    <product id="985224667641">
-      <category_id>18</category_id>
-      <name>Лимонад «Натахтари»</name>
-      <description></description>
-      <price>270</price>
-      <picture>https://static.tildacdn.com/tild3266-6233-4636-b731-613736666265/preparati-per-bevand.jpg</picture>
-      <weight>500</weight>
-    </product>
     <product id="615177238621">
       <category_id>18</category_id>
       <name>Морс клюквенный</name>
       <description></description>
       <price>90</price>
-      <picture>https://static.tildacdn.com/tild6165-3335-4463-b234-623461656361/preparati-per-bevand.jpg</picture>
+      <picture>https://static.tildacdn.com/tild3033-6265-4366-a663-633539666562/2020-10-08-12-23-19.jpg</picture>
       <weight>200</weight>
     </product>
     <product id="779229608631">
@@ -1277,23 +1246,23 @@
       <name>Морс клюквенный</name>
       <description></description>
       <price>350</price>
-      <picture>https://static.tildacdn.com/tild3863-3135-4538-a234-386535346634/preparati-per-bevand.jpg</picture>
+      <picture>https://static.tildacdn.com/tild3865-3134-4165-a465-383961396235/2020-10-08-12-23-19.jpg</picture>
       <weight>1000</weight>
     </product>
     <product id="431216369501">
       <category_id>18</category_id>
-      <name>Азербайджанские компоты</name>
+      <name>Азербайджанский компот Айва</name>
       <description></description>
       <price>390</price>
-      <picture>https://static.tildacdn.com/tild3432-3735-4134-a430-323365373265/preparati-per-bevand.jpg</picture>
+      <picture>https://static.tildacdn.com/tild3461-6562-4065-a336-656331633138/WhatsApp_Image_2020-.jpeg</picture>
       <weight>1000</weight>
     </product>
     <product id="865359552371">
       <category_id>18</category_id>
-      <name>Соки и нектары «Свелл»</name>
+      <name>Соки и нектары «Свелл» вишня</name>
       <description></description>
       <price>290</price>
-      <picture>https://static.tildacdn.com/tild6333-3664-4862-b235-363133303166/preparati-per-bevand.jpg</picture>
+      <picture>https://static.tildacdn.com/tild6436-3365-4162-a562-306130633039/scale_1200_2.jpeg</picture>
       <weight>750</weight>
     </product>
     <product id="409507575181">
@@ -1403,7 +1372,7 @@
     <product id="974012956761">
       <category_id>21</category_id>
       <name>Тирамису</name>
-      <description></description>
+      <description>Крем маскарпоне, печенье савоярди, кофе, какао</description>
       <price>350</price>
       <picture>https://static.tildacdn.com/tild3231-3230-4437-b365-386438356164/photo.jpg</picture>
       <weight>150</weight>
@@ -1411,7 +1380,7 @@
     <product id="604916151061">
       <category_id>21</category_id>
       <name>Штрудель вишневый</name>
-      <description></description>
+      <description>Штрудель яблочный, слоеное тесто, вишня запечённая, сахар, корица</description>
       <price>400</price>
       <picture>https://static.tildacdn.com/tild6164-6461-4930-b339-363333646661/_.jpg</picture>
       <weight>130</weight>
@@ -1419,7 +1388,7 @@
     <product id="807787983991">
       <category_id>21</category_id>
       <name>Штрудель яблочный</name>
-      <description></description>
+      <description>Штрудель яблочный, слоеное тесто, запечённые яблоки, сахар, корица</description>
       <price>400</price>
       <picture>https://static.tildacdn.com/tild3830-3636-4263-b234-356530646638/_.jpg</picture>
       <weight>130</weight>
@@ -1427,7 +1396,7 @@
     <product id="899116223631">
       <category_id>21</category_id>
       <name>Чизкейк</name>
-      <description></description>
+      <description>Сливки, филадельфия, бисквит, сахар</description>
       <price>330</price>
       <picture>https://static.tildacdn.com/tild6561-3462-4437-b634-346532333262/photo.jpg</picture>
       <weight>130</weight>
@@ -1435,7 +1404,7 @@
     <product id="592778460271">
       <category_id>21</category_id>
       <name>Три шоколада</name>
-      <description></description>
+      <description>3 вида шоколада, бисквит, какао, масло, сливки</description>
       <price>350</price>
       <picture>https://static.tildacdn.com/tild6531-3566-4966-a332-636138383332/_.jpg</picture>
       <weight>130</weight>
@@ -1443,7 +1412,7 @@
     <product id="478253762151">
       <category_id>21</category_id>
       <name>Морковный</name>
-      <description></description>
+      <description>Бисквит, курага, морковь, чернослив, грецкий орех, масло сливочное , сахар, белый шоколад</description>
       <price>290</price>
       <picture>https://static.tildacdn.com/tild6266-6133-4064-b761-643736666565/photo.jpg</picture>
       <weight>120</weight>
@@ -1451,7 +1420,7 @@
     <product id="915434579721">
       <category_id>21</category_id>
       <name>Пахлава</name>
-      <description></description>
+      <description>Мёд, грецкий орех, сливочное масло, сахар, сметана</description>
       <price>180</price>
       <picture>https://static.tildacdn.com/tild3139-3633-4166-b939-376238623038/POM_2564.JPG</picture>
       <weight>80</weight>
@@ -1459,7 +1428,7 @@
     <product id="146733763051">
       <category_id>21</category_id>
       <name>Шекербура</name>
-      <description></description>
+      <description>Грецкий орех, сахар, масло сливочное, яйца, сметана</description>
       <price>160</price>
       <picture>https://static.tildacdn.com/tild3265-6137-4233-b166-323832663934/photo.JPG</picture>
       <weight>70</weight>
@@ -1467,7 +1436,7 @@
     <product id="231268896661">
       <category_id>21</category_id>
       <name>Мутаки</name>
-      <description></description>
+      <description>Грецкий орех, сахар, масло сливочное, яйца, сметана</description>
       <price>140</price>
       <picture>https://static.tildacdn.com/tild3562-3234-4564-a434-393138336334/photo.JPG</picture>
       <weight>60</weight>
@@ -1475,7 +1444,7 @@
     <product id="457326931681">
       <category_id>21</category_id>
       <name>Террин фисташковый</name>
-      <description></description>
+      <description>Терин фисташковый бисквит, малина, крем ванильный, масло сливочное, сливки</description>
       <price>350</price>
       <picture>https://static.tildacdn.com/tild3438-3237-4337-b532-346532303661/_.jpg</picture>
       <weight>125</weight>
@@ -1618,27 +1587,11 @@
     </product>
     <product id="400019389691">
       <category_id>10</category_id>
-      <name>Хинкали с говядиной</name>
+      <name>Хинкали говядина/свинина</name>
       <description></description>
       <price>330</price>
       <picture>https://static.tildacdn.com/tild3562-3063-4138-a164-393038373531/_.jpg</picture>
       <weight>330</weight>
-    </product>
-    <product id="233261997941">
-      <category_id>10</category_id>
-      <name>Хинкали со свининой</name>
-      <description></description>
-      <price>330</price>
-      <picture>https://static.tildacdn.com/tild3562-3063-4138-a164-393038373531/_.jpg</picture>
-      <weight>330</weight>
-    </product>
-    <product id="787699012301">
-      <category_id>21</category_id>
-      <name>Мороженое ассорти</name>
-      <description>1 шарик</description>
-      <price>130</price>
-      <picture>https://static.tildacdn.com/tild6165-3166-4064-b932-336338363936/safar0313.jpg</picture>
-      <weight>50</weight>
     </product>
     <product id="805432744161">
       <category_id>24</category_id>
@@ -1816,30 +1769,6 @@
       <picture>https://static.tildacdn.com/tild3238-6231-4338-b662-343136653165/photo.jpg</picture>
       <weight>290</weight>
     </product>
-    <product id="372496263661">
-      <category_id>23</category_id>
-      <name>Фокачча с чесноком</name>
-      <description></description>
-      <price>100</price>
-      <picture>https://static.tildacdn.com/tild6362-3430-4964-b266-663830616333/___2.jpg</picture>
-      <weight>145</weight>
-    </product>
-    <product id="474396383151">
-      <category_id>23</category_id>
-      <name>Фокачча розмарин</name>
-      <description></description>
-      <price>130</price>
-      <picture>https://static.tildacdn.com/tild3532-6332-4362-b166-323532343461/_3.jpg</picture>
-      <weight>145</weight>
-    </product>
-    <product id="791469915421">
-      <category_id>23</category_id>
-      <name>Фокачча с пармезаном</name>
-      <description></description>
-      <price>150</price>
-      <picture>https://static.tildacdn.com/tild6464-3262-4333-b038-626136643336/__.jpg</picture>
-      <weight>145</weight>
-    </product>
     <product id="298166401481">
       <category_id>25</category_id>
       <name>Пиде с мясом</name>
@@ -1863,6 +1792,222 @@
       <price>300</price>
       <picture>https://static.tildacdn.com/tild6334-3238-4136-a338-626639396665/IMG_4893.jpg</picture>
       <weight>300</weight>
+    </product>
+    <product id="129047462821">
+      <category_id>26</category_id>
+      <name>Coca-Cola</name>
+      <description></description>
+      <price>130</price>
+      <picture>https://static.tildacdn.com/tild3436-6239-4931-b864-613136666638/_1_.jpg</picture>
+      <weight>1</weight>
+    </product>
+    <product id="386998892861">
+      <category_id>26</category_id>
+      <name>Спрайт</name>
+      <description></description>
+      <price>130</price>
+      <picture>https://static.tildacdn.com/tild6364-6633-4634-b233-613165323334/__2020-12-03__122208.png</picture>
+      <weight>1</weight>
+    </product>
+    <product id="422901782101">
+      <category_id>26</category_id>
+      <name>Фанта</name>
+      <description></description>
+      <price>130</price>
+      <picture>https://static.tildacdn.com/tild3333-3963-4138-a231-646435643763/photo.jpg</picture>
+      <weight>1</weight>
+    </product>
+    <product id="671726937821">
+      <category_id>18</category_id>
+      <name>Соки и нектары «Свелл» грейфрут</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild6633-6165-4038-a638-616266306465/scale_1200_2.jpeg</picture>
+      <weight>750</weight>
+    </product>
+    <product id="263176075511">
+      <category_id>18</category_id>
+      <name>Соки и нектары «Свелл» апельсин</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild6165-3334-4539-a132-373363633761/scale_1200_2.jpeg</picture>
+      <weight>750</weight>
+    </product>
+    <product id="649247791831">
+      <category_id>18</category_id>
+      <name>Соки и нектары «Свелл» яблоко</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild3362-3964-4135-a636-303761626563/scale_1200_2.jpeg</picture>
+      <weight>750</weight>
+    </product>
+    <product id="770653422091">
+      <category_id>18</category_id>
+      <name>Соки и нектары «Свелл» ананас</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild6330-6136-4564-b735-366538643166/scale_1200_2.jpeg</picture>
+      <weight>750</weight>
+    </product>
+    <product id="314366033871">
+      <category_id>18</category_id>
+      <name>Соки и нектары «Свелл» томат</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild6435-3863-4138-b335-336432333863/scale_1200_2.jpeg</picture>
+      <weight>750</weight>
+    </product>
+    <product id="859574225911">
+      <category_id>18</category_id>
+      <name>Соки и нектары «Свелл» персик</name>
+      <description></description>
+      <price>290</price>
+      <picture>https://static.tildacdn.com/tild6432-6564-4139-b536-393339323539/scale_1200_2.jpeg</picture>
+      <weight>750</weight>
+    </product>
+    <product id="488005811661">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Ежевика</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3361-3764-4233-b930-333139303033/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="477709532001">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Вишня</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild6163-3236-4330-a336-396466616536/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="958775870691">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Абрикос</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3666-3334-4166-b636-613432343665/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="835875951271">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Персик</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3563-3563-4733-b834-626164656232/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="221291876871">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Фейхоа</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3430-3164-4664-b934-306532393362/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="638384285201">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Красная слива</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild6334-3464-4538-b964-666638393538/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="550403802471">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Алыча</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3864-3765-4235-b863-666162346137/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="310534239961">
+      <category_id>18</category_id>
+      <name>Азербайджанский компот Кизил</name>
+      <description></description>
+      <price>390</price>
+      <picture>https://static.tildacdn.com/tild3038-3632-4264-a664-353264383331/WhatsApp_Image_2020-.jpeg</picture>
+      <weight>1000</weight>
+    </product>
+    <product id="443597981471">
+      <category_id>18</category_id>
+      <name>МИНЕРАЛЬНАЯ ВОДА " ЭВИАН" б/г</name>
+      <description></description>
+      <price>190</price>
+      <picture>https://static.tildacdn.com/tild3962-3661-4261-b363-363365326462/2020-10-08-13-37-31_.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="350078869831">
+      <category_id>18</category_id>
+      <name>МИНЕРАЛЬНАЯ ВОДА "ВИТЕЛЬ" б/г</name>
+      <description></description>
+      <price>190</price>
+      <picture>https://static.tildacdn.com/tild3866-3330-4861-b131-303365653164/2020-10-08-13-37-31_.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="834178331291">
+      <category_id>18</category_id>
+      <name>МИНЕРАЛЬНАЯ ВОДА "ЛЕДЯНАЯ ВОДА" б/г</name>
+      <description></description>
+      <price>130</price>
+      <picture>https://static.tildacdn.com/tild6437-6336-4634-b539-653964653038/2020-10-08-13-37-31_.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="396915735671">
+      <category_id>18</category_id>
+      <name>МИНЕРАЛЬНАЯ ВОДА "Рычал- су" с/г</name>
+      <description></description>
+      <price>150</price>
+      <picture>https://static.tildacdn.com/tild3838-3637-4631-b333-363130396232/2020-10-08-13-37-31_.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="183557821811">
+      <category_id>18</category_id>
+      <name>МИНЕРАЛЬНАЯ ВОДА "ПЕРЬЕ" с/г</name>
+      <description></description>
+      <price>190</price>
+      <picture>https://static.tildacdn.com/tild3866-6139-4333-b663-313538653562/2020-10-08-13-37-31_.jpg</picture>
+      <weight>330</weight>
+    </product>
+    <product id="564628601801">
+      <category_id>18</category_id>
+      <name>МИНЕРАЛЬНАЯ ВОДА "Джермук" с/г</name>
+      <description></description>
+      <price>160</price>
+      <picture>https://static.tildacdn.com/tild3866-6139-4333-b663-313538653562/2020-10-08-13-37-31_.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="231271626161">
+      <category_id>18</category_id>
+      <name>ЭНЕРГЕТИЧЕСКИЙ НАПИТОК "РЕД БУЛЛ"</name>
+      <description></description>
+      <price>230</price>
+      <picture>https://static.tildacdn.com/tild6566-3036-4231-b531-636332343935/unnamed_1.jpg</picture>
+      <weight>250</weight>
+    </product>
+    <product id="911000286041">
+      <category_id>18</category_id>
+      <name>ЛИМОНАД "НАТАХТАРИ"</name>
+      <description></description>
+      <price>150</price>
+      <picture>https://static.tildacdn.com/tild3331-3764-4661-a134-326539306339/TarragonGlass05but-5.jpg</picture>
+      <weight>500</weight>
+    </product>
+    <product id="387848771841">
+      <category_id>18</category_id>
+      <name>ЛИМОНАД "ДЮШЕС"</name>
+      <description></description>
+      <price>150</price>
+      <picture>https://static.tildacdn.com/tild3037-3464-4361-b538-393763646538/1234323132.png</picture>
+      <weight>500</weight>
+    </product>
+    <product id="686159395471">
+      <category_id>18</category_id>
+      <name>ЛИМОНАД "ТАРХУН"</name>
+      <description></description>
+      <price>150</price>
+      <picture>https://static.tildacdn.com/tild3132-3030-4737-b662-386439636634/napitok_tarhun_033_l.jpg</picture>
+      <weight>500</weight>
     </product>
   </products>
  </delivery_service>
